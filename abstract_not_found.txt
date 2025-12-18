@@ -1,0 +1,188 @@
+# Abstract not found (Crossref/arXiv)
+# Count: 185
+
+papers_1990	NeLiF: Neural Lighting Function Generation for Real-Time Indoor Rendering	https://dl.acm.org/doi/full/10.1145/3757377.3763958
+papers_2479	Implicit Position Based Fluids	https://dl.acm.org/doi/10.1145/3757377.3764005
+papers_1207	PartUV: Part-Based UV Unwrapping of 3D Meshes	https://dl.acm.org/doi/10.1145/3757377.3763843
+papers_1239	Solid-Shell Labeling for Discrete Surfaces	https://dl.acm.org/doi/10.1145/3757377.3763847
+papers_2322	RibbonSculpt: Voronoi Ball based 3D Sculpting from Sparse VR Ribbons	https://dl.acm.org/doi/10.1145/3757377.3763994
+papers_1022	Shape-for-Motion: Precise and Consistent Video Editing With 3D Proxy	https://dl.acm.org/doi/10.1145/3757377.3763816
+papers_1132	Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval	https://dl.acm.org/doi/10.1145/3757377.3763833
+papers_1191	CamCloneMaster: Enabling Reference-based Camera Control for Video Generation	https://dl.acm.org/doi/10.1145/3757377.3763841
+papers_1200	Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation	https://dl.acm.org/doi/10.1145/3757377.3763842
+papers_1610	Cut2Next: Generating Next Shot via In-Context Tuning	https://dl.acm.org/doi/10.1145/3757377.3763896
+papers_2281	CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion	https://dl.acm.org/doi/10.1145/3757377.3763990
+papers_1364	SeqTex: Generate Mesh Textures in Video Sequence	https://dl.acm.org/doi/10.1145/3757377.3763863
+papers_1003	Precise Gradient Discontinuities in Neural Fields for Subspace Physics	https://dl.acm.org/doi/10.1145/3757377.3763810
+papers_1641	Variational Neural Surfacing of 3D Sketches	https://dl.acm.org/doi/10.1145/3757377.3763900
+papers_1795	Neural Kinematic Bases for Fluids	https://dl.acm.org/doi/10.1145/3757377.3763925
+papers_1018	InfiniHuman: Realistic 3D Human Creation with Precise Control	https://dl.acm.org/doi/10.1145/3757377.3763815
+papers_1586	HRM^2Avatar: High-Fidelity Real-Time Mobile Avatars from Monocular Phone Scans	https://dl.acm.org/doi/10.1145/3757377.3763894
+papers_2119	PriorAvatar: Efficient and Robust Avatar Creation from Monocular Video Using Learned Priors	https://dl.acm.org/doi/10.1145/3757377.3763978
+papers_1965	Constructing Diffusion Avatar with Learnable Embeddings	https://dl.acm.org/doi/10.1145/3757377.3763953
+papers_1178	HumanLift: Single-Image 3D Human Reconstruction with 3D-Aware Diffusion Priors and Facial Enhancement	https://dl.acm.org/doi/10.1145/3757377.3763839
+papers_1060	NeuralPVS: Learned Estimation of Potentially Visible Sets	https://dl.acm.org/doi/10.1145/3757377.3763822
+papers_1388	Neural Visibility of Point Sets	https://dl.acm.org/doi/10.1145/3757377.3763869
+papers_2150	Potentially Visible Set Generation with the Disocclusion Buffer	https://dl.acm.org/doi/10.1145/3757377.3763981
+papers_1360	PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image	https://dl.acm.org/doi/10.1145/3757377.3763862
+papers_2447	FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters	https://dl.acm.org/doi/10.1145/3757377.3764002
+papers_2360	Fast & Stable Control of Coupled Solid-Fluid Dynamic Systems	https://dl.acm.org/doi/10.1145/3757377.3763997
+papers_2197	Discovering Folding Lines for Surface Compression	https://dl.acm.org/doi/10.1145/3757377.3763983
+papers_1602	Reconfigurable Hinged Kirigami Tessellations	https://dl.acm.org/doi/10.1145/3757377.3763895
+papers_2335	Star-Shaped Distance Voronoi Diagrams for 3D Metamaterial Design	https://dl.acm.org/doi/10.1145/3757377.3763996
+papers_1077	CameraVDP: Perceptual Display Assessment with Uncertainty Estimation via Camera and Visual Difference Prediction	https://dl.acm.org/doi/10.1145/3757377.3763825
+papers_1081	DiffCamera: Arbitrary Refocusing on Images	https://dl.acm.org/doi/10.1145/3757377.3763827
+papers_1422	Learning to Refocus with Video Diffusion Models	https://dl.acm.org/doi/10.1145/3757377.3763873
+papers_1250	Automated Design of Compound Lenses with Discrete-Continuous Optimization	https://dl.acm.org/doi/10.1145/3757377.3763850
+papers_1761	UltraZoom: Generating Gigapixel Images from Regular Photos	https://dl.acm.org/doi/10.1145/3757377.3763919
+papers_1824	Nonlinear Noise2Noise for Efficient Monte Carlo Denoiser Training	https://dl.acm.org/doi/10.1145/3757377.3763931
+papers_2326	Statistical Error Reduction for Monte Carlo Rendering	https://dl.acm.org/doi/10.1145/3757377.3763995
+papers_1264	Audio Driven Real-Time Facial Animation for Social Telepresence	https://dl.acm.org/doi/10.1145/3757377.3763854
+papers_1520	LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation	https://dl.acm.org/doi/10.1145/3757377.3763887
+papers_1730	High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation	https://dl.acm.org/doi/10.1145/3757377.3763914
+papers_1860	Audio-Driven Universal Gaussian Head Avatars	https://dl.acm.org/doi/10.1145/3757377.3763939
+papers_1975	ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model	https://dl.acm.org/doi/10.1145/3757377.3763955
+papers_1005	ShapeGen: Towards High-Quality 3D Shape Synthesis	https://dl.acm.org/doi/10.1145/3757377.3763812
+papers_1032	Autoregressive Generation of Static and Growing Trees	https://dl.acm.org/doi/10.1145/3757377.3763818
+papers_1412	OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion	https://dl.acm.org/doi/10.1145/3757377.3763872
+papers_1446	ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction	https://dl.acm.org/doi/10.1145/3757377.3763877
+papers_1992	SPGen: Spherical Projection as Consistent and Flexible Representation for Single Image 3D Shape Generation	https://dl.acm.org/doi/10.1145/3757377.3763959
+papers_1719	DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model	https://dl.acm.org/doi/10.1145/3757377.3763913
+papers_2056	ELAD: Blind Face Restoration using Expectation-based Likelihood Approximation and Diffusion Prior	https://dl.acm.org/doi/10.1145/3757377.3763969
+papers_2401	Self-supervised Underwater Color Restoration via Wavelet-Diffusion Model with Filtered Multi-Scale Feature Distillation	https://dl.acm.org/doi/10.1145/3757377.3763999
+papers_1757	Spectral Reconstruction with Uncertainty Quantification via Differentiable Rendering and Null-Space Sampling	https://dl.acm.org/doi/10.1145/3757377.3763918
+papers_1766	Adaptive Neural Kernels for Gradient-domain Rendering	https://dl.acm.org/doi/10.1145/3757377.3763920
+papers_1073	Supra-threshold Contrast Perception in Augmented Reality	https://dl.acm.org/doi/10.1145/3757377.3763824
+papers_2458	Vertical Binocular Misalignment in AR Impairs Reading Performance	https://dl.acm.org/doi/10.1145/3757377.3764003
+papers_1173	Performance Analysis of Catch-Up Eye Movements in Visual Tracking	https://dl.acm.org/doi/10.1145/3757377.3763837
+papers_1094	TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction	https://dl.acm.org/doi/10.1145/3757377.3763829
+papers_1336	Clustered Error Correction with Grouped 4D Gaussian Splatting	https://dl.acm.org/doi/10.1145/3757377.3763858
+papers_1616	Anchored 4D Gaussian Splatting for Dynamic Novel View Synthesis	https://dl.acm.org/doi/10.1145/3757377.3763898
+papers_1687	Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video	https://dl.acm.org/doi/10.1145/3757377.3763910
+papers_1682	4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture	https://dl.acm.org/doi/10.1145/3757377.3763908
+papers_1386	Progressive Outfit Assembly and Instantaneous Pose Transfer	https://dl.acm.org/doi/10.1145/3757377.3763868
+papers_1533	Neighbor-Aware Data-Driven Relaxation of Stitch Mesh Models for Knits	https://dl.acm.org/doi/10.1145/3757377.3763890
+papers_2212	A Nonconforming Formulation of Cloth	https://dl.acm.org/doi/10.1145/3757377.3763989
+papers_1453	EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly	https://dl.acm.org/doi/10.1145/3757377.3763878
+papers_1849	Inverse Radiative Transport for Infrared Scenes with Gaussian Primitives	https://dl.acm.org/doi/10.1145/3757377.3763938
+papers_1375	Efficient Object Reconstruction with Differentiable Area Light Shading	https://dl.acm.org/doi/10.1145/3757377.3763865
+papers_1827	GigaSLAM: Large-Scale Monocular SLAM with Hierarchical Gaussian Splats	https://dl.acm.org/doi/10.1145/3757377.3763932
+papers_2138	Improving Curl Noise	https://dl.acm.org/doi/10.1145/3757377.3763980
+papers_2309	Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video	https://dl.acm.org/doi/10.1145/3757377.3763992
+papers_1996	QMF-Blend: Quantized Matrix Factorization for Efficient Blendshape Compression	https://dl.acm.org/doi/10.1145/3757377.3763961
+papers_2559	AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation	https://dl.acm.org/doi/10.1145/3757377.3764009
+papers_1479	Low-Rank Adaptation of Neural Fields	https://dl.acm.org/doi/10.1145/3757377.3763882
+papers_1650	Spectral Prefiltering of Neural Fields	https://dl.acm.org/doi/10.1145/3757377.3763901
+papers_1830	SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction	https://dl.acm.org/doi/10.1145/3757377.3763933
+papers_2168	RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer	https://dl.acm.org/doi/10.1145/3757377.3763982
+papers_1654	Capturing Non-Linear Human Perspective in Line Drawings	https://dl.acm.org/doi/10.1145/3757377.3763902
+papers_1086	AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion	https://dl.acm.org/doi/10.1145/3757377.3763828
+papers_2008	LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization	https://dl.acm.org/doi/10.1145/3757377.3763964
+papers_1793	UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images	https://dl.acm.org/doi/10.1145/3757377.3763923
+papers_1016	AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry	https://dl.acm.org/doi/10.1145/3757377.3763814
+papers_1539	Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization	https://dl.acm.org/doi/10.1145/3757377.3763891
+papers_1934	Motion In-Betweening for Densely Interacting Characters	https://dl.acm.org/doi/10.1145/3757377.3763950
+papers_1029	StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data	https://dl.acm.org/doi/10.1145/3757377.3763817
+papers_1484	PhysiOpt: Physics-Driven Shape Optimization for 3D Generative Models	https://dl.acm.org/doi/10.1145/3757377.3763884
+papers_1381	Object-level Visual Prompts for Compositional Image Generation	https://dl.acm.org/doi/10.1145/3757377.3763867
+papers_2203	ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation	https://dl.acm.org/doi/10.1145/3757377.3763984
+papers_1918	PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples	https://dl.acm.org/doi/10.1145/3757377.3763947
+papers_1885	AGSwap: Overcoming Category Boundaries in Object Fusion via Adaptive Group Swapping	https://dl.acm.org/doi/10.1145/3757377.3763944
+papers_1368	Strands2Cards: Automatic Generation of Hair Cards from Strands	https://dl.acm.org/doi/10.1145/3757377.3763864
+papers_1711	CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling	https://dl.acm.org/doi/10.1145/3757377.3763912
+papers_1879	Single-Shot Facial Capture using Polarized RGB Sinusoidal Illumination	https://dl.acm.org/doi/10.1145/3757377.3763942
+papers_2005	Single Image 3D Portrait Relighting with Generative Priors	https://dl.acm.org/doi/10.1145/3757377.3763962
+papers_1405	VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models	https://dl.acm.org/doi/10.1145/3757377.3763871
+papers_1445	Generating 360° Video is What You Need For a 3D Scene	https://dl.acm.org/doi/10.1145/3757377.3763876
+papers_1483	PanoDreamer: Optimization-Based Single Image to 360 3D Scene With Diffusion	https://dl.acm.org/doi/10.1145/3757377.3763883
+papers_1915	WorldExplorer: Towards Generating Fully Navigable 3D Scenes	https://dl.acm.org/doi/10.1145/3757377.3763946
+papers_1469	Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents	https://dl.acm.org/doi/10.1145/3757377.3763879
+papers_2382	Echo: Enhancing Conversational Behavior Generation via Hierarchical Semantic Comprehension with Large Language Models	https://dl.acm.org/doi/10.1145/3757377.3763998
+papers_1732	SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis	https://dl.acm.org/doi/10.1145/3757377.3763915
+papers_2031	Unifying Latent Action and Latent State Pre-training for Policy Learning from Videos	https://dl.acm.org/doi/10.1145/3757377.3763966
+papers_2493	JoruriPuppet: Learning Tempo-Changing Mechanisms Beyond the Beat for Music-to-Motion Generation with Expressive Metrics	https://dl.acm.org/doi/10.1145/3757377.3764006
+papers_2099	Efficient and Scalable Spatial Regularization of Optimal Transport	https://dl.acm.org/doi/10.1145/3757377.3763976
+papers_1319	Medial Sphere Preconditioning for Knot Untangling and Volume-Filling Curves	https://dl.acm.org/doi/10.1145/3757377.3763856
+papers_1168	PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos	https://dl.acm.org/doi/10.1145/3757377.3763836
+papers_1545	GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes	https://dl.acm.org/doi/10.1145/3757377.3763892
+papers_2405	Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering	https://dl.acm.org/doi/10.1145/3757377.3764000
+papers_1532	MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars	https://dl.acm.org/doi/10.1145/3757377.3763889
+papers_1837	MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis	https://dl.acm.org/doi/10.1145/3757377.3763935
+papers_1258	Off-Centered WoS-Type Solvers with Statistical Weighting	https://dl.acm.org/doi/10.1145/3757377.3763852
+papers_1656	An Adjoint Method for Differentiable Fluid Simulation on Flow Maps	https://dl.acm.org/doi/10.1145/3757377.3763903
+papers_2317	AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting	https://dl.acm.org/doi/10.1145/3757377.3763993
+papers_2108	Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images	https://dl.acm.org/doi/10.1145/3757377.3763977
+papers_2307	MODepth: Benchmarking Mobile Multi-frame Monocular Depth Estimation with Optical Image Stabilization	https://dl.acm.org/doi/10.1145/3757377.3763991
+papers_1307	Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction	https://dl.acm.org/doi/10.1145/3757377.3763855
+papers_1495	AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models	https://dl.acm.org/doi/10.1145/3757377.3763885
+papers_1745	Animus3D: Text-driven 3D Animation via Motion Score Distillation	https://dl.acm.org/doi/10.1145/3757377.3763916
+papers_1951	X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents	https://dl.acm.org/doi/10.1145/3757377.3763952
+papers_2503	FairyGen: Storied Cartoon Video from a Single Child-Drawn Character	https://dl.acm.org/doi/10.1145/3757377.3764007
+papers_1626	3D SMoE Splatting for Edge-aware Realtime Radiance Field Rendering	https://dl.acm.org/doi/10.1145/3757377.3763899
+papers_1253	PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems	https://dl.acm.org/doi/10.1145/3757377.3763851
+papers_2051	Sparse Cache Updates for Scalable Distributed Effect-Based Rendering	https://dl.acm.org/doi/10.1145/3757377.3763968
+papers_2009	StereoFG: Generating Stereo Frames from Centered Feature Stream	https://dl.acm.org/doi/10.1145/3757377.3763965
+papers_1820	Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search	https://dl.acm.org/doi/10.1145/3757377.3763930
+papers_1789	Hierarchical Neural Semantic Representation for 3D Semantic Correspondence	https://dl.acm.org/doi/10.1145/3757377.3763921
+papers_1817	StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance	https://dl.acm.org/doi/10.1145/3757377.3763929
+papers_1881	Fuse3D: Generating 3D Assets Controlled by Multi-Image Fusion	https://dl.acm.org/doi/10.1145/3757377.3763943
+papers_1660	In-2-4D: Inbetweening from Two Single-View Images to 4D Generation	https://dl.acm.org/doi/10.1145/3757377.3763904
+papers_1890	Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light	https://dl.acm.org/doi/10.1145/3757377.3763945
+papers_1794	Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding	https://dl.acm.org/doi/10.1145/3757377.3763924
+papers_1688	Transient LASSO: Transient Large-Scale Scene Reconstruction	https://dl.acm.org/doi/10.1145/3757377.3763911
+papers_2209	LookUp3D: Data-Driven 3D Scanning	https://dl.acm.org/doi/10.1145/3757377.3763986
+papers_1004	Motion2Motion: Cross-topology Motion Retargeting with Sparse Correspondence	https://dl.acm.org/doi/10.1145/3757377.3763811
+papers_1949	PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction	https://dl.acm.org/doi/10.1145/3757377.3763951
+papers_1425	Generating Detailed Character Motion from Blocking Poses	https://dl.acm.org/doi/10.1145/3757377.3763874
+papers_1209	FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion	https://dl.acm.org/doi/10.1145/3757377.3763845
+papers_1551	Generating Objects with Part-Articulation from a Single Image	https://dl.acm.org/doi/10.1145/3757377.3763893
+papers_1208	LARM: A Large Articulated Object Reconstruction Model	https://dl.acm.org/doi/10.1145/3757377.3763844
+papers_1790	ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents	https://dl.acm.org/doi/10.1145/3757377.3763922
+papers_2073	Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion	https://dl.acm.org/doi/10.1145/3757377.3763972
+papers_1332	LLM-Primitives: Large Language Model for 3D Reconstruction with Primitives	https://dl.acm.org/doi/10.1145/3757377.3763857
+papers_1676	Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models	https://dl.acm.org/doi/10.1145/3757377.3763906
+papers_2210	Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA	https://dl.acm.org/doi/10.1145/3757377.3763987
+papers_1001	Diffusion-Guided Relighting for Single-Image SVBRDF Estimation	https://dl.acm.org/doi/10.1145/3757377.3763809
+papers_1674	EBREnv: SVBRDF Estimation in Uncontrolled Environment Lighting via Exemplar-Based Representation	https://dl.acm.org/doi/10.1145/3757377.3763905
+papers_1240	Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images	https://dl.acm.org/doi/10.1145/3757377.3763848
+papers_1843	AniTex: Light-Geometry Consistent PBR Material Generation for Animatable Objects	https://dl.acm.org/doi/10.1145/3757377.3763936
+papers_1261	Hyperspectral Polarimetric BRDFs of Real-world Materials	https://dl.acm.org/doi/10.1145/3757377.3763853
+papers_1993	Multiphase Particle-Based Simulation of Poro-Elasto-Capillary Effects	https://dl.acm.org/doi/10.1145/3757377.3763960
+papers_1047	ASIA: Adaptive 3D Segmentation using Few Image Annotations	https://dl.acm.org/doi/10.1145/3757377.3763821
+papers_1146	Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes	https://dl.acm.org/doi/10.1145/3757377.3763835
+papers_1188	MATStruct: High-quality Medial Mesh Computation via Structure-aware Variational Optimization	https://dl.acm.org/doi/10.1145/3757377.3763840
+papers_1131	Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range Camera Trajectories using Spacetime Octrees	https://dl.acm.org/doi/10.1145/3757377.3763832
+papers_2466	Design for Descent: What Makes a Shape Grammar Easy to Optimize?	https://dl.acm.org/doi/10.1145/3757377.3764004
+papers_1391	Teamwork: Collaborative Diffusion with Low-rank Coordination and Adaptation	https://dl.acm.org/doi/10.1145/3757377.3763870
+papers_1525	Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Volumetric Performance Captures	https://dl.acm.org/doi/10.1145/3757377.3763888
+papers_1925	Proteus-ID: ID-Consistent and Motion-Coherent Video Customization	https://dl.acm.org/doi/10.1145/3757377.3763949
+papers_2007	DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning	https://dl.acm.org/doi/10.1145/3757377.3763963
+papers_2123	HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling	https://dl.acm.org/doi/10.1145/3757377.3763979
+papers_1801	Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting	https://dl.acm.org/doi/10.1145/3757377.3763926
+papers_1846	Rigidity-Aware 3D Gaussian Deformation from a Single Image	https://dl.acm.org/doi/10.1145/3757377.3763937
+papers_1988	Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction	https://dl.acm.org/doi/10.1145/3757377.3763957
+papers_2424	TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores	https://dl.acm.org/doi/10.1145/3757377.3764001
+papers_1347	DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting	https://dl.acm.org/doi/10.1145/3757377.3763860
+papers_1036	Physics-Based Motion Imitation with Adversarial Differential Discriminators	https://dl.acm.org/doi/10.1145/3757377.3763819
+papers_1923	Learning Human Motion with Temporally Conditional Mamba	https://dl.acm.org/doi/10.1145/3757377.3763948
+papers_1066	SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization	https://dl.acm.org/doi/10.1145/3757377.3763823
+papers_1970	Uni-Inter Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts	https://dl.acm.org/doi/10.1145/3757377.3763954
+papers_1359	HOMA: Towards Generic Human-Object Interaction in Multimodal Driven Human Animation with Weak Conditions	https://dl.acm.org/doi/10.1145/3757377.3763861
+papers_1497	Closed-form Cauchy Coordinates and Their Derivatives for 2D High-order Cages	https://dl.acm.org/doi/10.1145/3757377.3763886
+papers_1471	Compact shape representation utilizing local surface similarities	https://dl.acm.org/doi/10.1145/3757377.3763880
+papers_1039	In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation	https://dl.acm.org/doi/10.1145/3757377.3763820
+papers_1615	BlobCtrl: Taming Controllable Blob for Element-level Image Editing	https://dl.acm.org/doi/10.1145/3757377.3763897
+papers_1683	ConsistEdit: Highly Consistent and Precise Training-free Visual Editing	https://dl.acm.org/doi/10.1145/3757377.3763909
+papers_1867	Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off	https://dl.acm.org/doi/10.1145/3757377.3763940
+papers_1976	DreamO: A Unified Framework for Image Customization	https://dl.acm.org/doi/10.1145/3757377.3763956
+papers_2211	The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion	https://dl.acm.org/doi/10.1145/3757377.3763988
+papers_1174	LVT: Large-Scale Scene Reconstruction via Local View Transformers	https://dl.acm.org/doi/10.1145/3757377.3763838
+papers_1379	CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians	https://dl.acm.org/doi/10.1145/3757377.3763866
+papers_2032	GSWT: Gaussian Splatting Wang Tiles	https://dl.acm.org/doi/10.1145/3757377.3763967
+papers_1679	Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy	https://dl.acm.org/doi/10.1145/3757377.3763907
+papers_1217	A compact stochastic representation for Monte Carlo Path Traced images	https://dl.acm.org/doi/10.1145/3757377.3763846
+papers_2062	Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields	https://dl.acm.org/doi/10.1145/3757377.3763971
+papers_1473	LegoACE: Autoregressive Construction Engine for Expressive LEGO Assemblies	https://dl.acm.org/doi/10.1145/3757377.3763881
+papers_1432	Computational Design of Shape-Aware Sieves	https://dl.acm.org/doi/10.1145/3757377.3763875
+papers_1871	Designing with Tension: Nearly-Developable Patch Layouts	https://dl.acm.org/doi/10.1145/3757377.3763941
+papers_1136	Inverse Tiling of 2D Finite Domains	https://dl.acm.org/doi/10.1145/3757377.3763834

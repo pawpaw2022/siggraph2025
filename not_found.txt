@@ -1,0 +1,1207 @@
+# Papers without GitHub or arXiv links
+# Total: 301 papers
+
+Title: RCTrans: Transparent Object Reconstruction in Natural Scene via Refractive Correspondence Estimation
+Authors: Fangzhou Gao, Yuzhen Kang, Lianghao Zhang
+Paper ID: 1338
+------------------------------------------------------------
+Title: Topology-Aware Optimization of Gaussian Primitives for Human-Centric Volumetric Videos
+Authors: Yuheng Jiang, Chengcheng Guo, Yize Wu
+Paper ID: 2088
+------------------------------------------------------------
+Title: Surface-Aware Distilled 3D Semantic Features
+Authors: Lukas Uzolas, Elmar Eisemann, Petr Kellnhofer
+Paper ID: 2078
+------------------------------------------------------------
+Title: Lang3D-XL: Language Embedded 3D Gaussians for Large-scale Scenes
+Authors: Shai Krakovsky, Gal Fiebelman, Sagie Benaim
+Paper ID: 2076
+------------------------------------------------------------
+Title: PoissonNet: A Local-Global Approach for Learning on Surfaces
+Authors: Arman Maesumi, Tanish Makadia, Thibault Groueix
+Paper ID: 1315
+------------------------------------------------------------
+Title: Navigating with Annealing Guidance Scale in Diffusion Space
+Authors: Shai Yehezkel, Omer Dahary, Andrey Voynov
+Paper ID: 1105
+------------------------------------------------------------
+Title: Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation
+Authors: Beijia Lu, Ziyi Chen, Jing Xiao
+Paper ID: 1125
+------------------------------------------------------------
+Title: OmnimatteZero: Fast Training-free Omnimatte with Pre-trained Video Diffusion Models
+Authors: Dvir Samuel, Matan Levy, Nir Darshan
+Paper ID: 1753
+------------------------------------------------------------
+Title: STGlight: Online Indoor Lighting Estimation via Spatio-Temporal Gaussian Fusion
+Authors: Shiyuan Shen, Zhongyun Bao, Hong Ding
+Paper ID: 2070
+------------------------------------------------------------
+Title: GenLit: Reformulating Single-Image Relighting as Video Generation
+Authors: Shrisha Bharadwaj, Haiwen Feng, Giorgio Becherini
+Paper ID: 2057
+------------------------------------------------------------
+Title: DynVFX: Augmenting Real Videos with Dynamic Content
+Authors: Danah Yatim, Rafail Fridman, Omer Bar-Tal
+Paper ID: 2542
+------------------------------------------------------------
+Title: Vertex Features for Neural Global Illumination
+Authors: Rui Su, Honghao Dong, Haojie Jin
+Paper ID: 1079
+------------------------------------------------------------
+Title: NeLiF: Neural Lighting Function Generation for Real-Time Indoor Rendering
+Authors: Hongtao Sheng, Yuchi Huo, Chuankun Zheng
+Paper ID: 1990
+------------------------------------------------------------
+Title: ReSTIR PG: Path Guiding with Spatiotemporally Resampled Paths
+Authors: ZHENG ZENG, Markus Kettunen, Chris Wyman
+Paper ID: 1013
+------------------------------------------------------------
+Title: Sample Space Partitioning and Spatiotemporal Resampling for Specular Manifold Sampling
+Authors: Pengpei Hong, Meng Duan, Beibei Wang
+Paper ID: 1809
+------------------------------------------------------------
+Title: Frame-Free Representation of Polarized Light for Resolving Stokes Vector Singularities
+Authors: Shinyoung Yi, Jiwoong Na, Seungmin Hwang
+Paper ID: 1083
+------------------------------------------------------------
+Title: Viscous Vortex Dynamics on Surfaces
+Authors: Cuncheng Zhu, Hang Yin, Albert Chern
+Paper ID: 1638
+------------------------------------------------------------
+Title: Fast Galerkin Multigrid Method for Unstructured Meshes
+Authors: Jia-Ming Lu, Tailing Yuan, Zhe-Han Mo
+Paper ID: 1733
+------------------------------------------------------------
+Title: A Stack-Free Parallel h-Adaptation Algorithm for Dynamically Balanced Trees on GPUs
+Authors: Lixin Ren, Xiaowei He, Shusen Liu
+Paper ID: 2069
+------------------------------------------------------------
+Title: Implicit Position Based Fluids
+Authors: Elie Diaz, Jerry Hsu, Eisen Montalvo-Ruiz
+Paper ID: 2479
+------------------------------------------------------------
+Title: Shape-for-Motion: Precise and Consistent Video Editing With 3D Proxy
+Authors: Yuhao Liu, Tengfei Wang, Fang Liu
+Paper ID: 1022
+------------------------------------------------------------
+Title: Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval
+Authors: Jiwen Yu, Jianhong Bai, Yiran Qin
+Paper ID: 1132
+------------------------------------------------------------
+Title: CamCloneMaster: Enabling Reference-based Camera Control for Video Generation
+Authors: Yawen Luo, Xiaoyu Shi, Jianhong Bai
+Paper ID: 1191
+------------------------------------------------------------
+Title: Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation
+Authors: Chenjie Cao, Jingkai Zhou, Shikai Li
+Paper ID: 1200
+------------------------------------------------------------
+Title: Cut2Next: Generating Next Shot via In-Context Tuning
+Authors: Jingwen He, Hongbo Liu, Jiajun Li
+Paper ID: 1610
+------------------------------------------------------------
+Title: CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion
+Authors: Chenhao Ji, Chaohui Yu, Junyao Gao
+Paper ID: 2281
+------------------------------------------------------------
+Title: Scattering-Aware Color Calibration for 3D Printers Using a Simple Calibration Target
+Authors: Tomáš Iser, Tobias Rittig, Alexander Wilkie
+Paper ID: 1270
+------------------------------------------------------------
+Title: Example-Based Feature Painting on Textures
+Authors: Andrei-Timotei Ardelean, Tim Weyrich
+Paper ID: 1415
+------------------------------------------------------------
+Title: DiffTex: Differentiable Texturing for Architectural Proxy Models
+Authors: Weidan Xiong, Yongli Wu, Bochuan Zeng
+Paper ID: 1568
+------------------------------------------------------------
+Title: Fine-Grained Spatially Varying Material Selection in Images
+Authors: Julia Guerrero-Viu, Michael Fischer, Iliyan Georgiev
+Paper ID: 1768
+------------------------------------------------------------
+Title: S3 Imagery: Specular Shading from Scratch-Anisotropy
+Authors: Pengfei Shen, Feifan Qu, Li Liao
+Paper ID: 1810
+------------------------------------------------------------
+Title: SeqTex: Generate Mesh Textures in Video Sequence
+Authors: Ze Yuan, Xin Yu, Yangtian Sun
+Paper ID: 1364
+------------------------------------------------------------
+Title: Simplifying Textured Triangle Meshes in the Wild
+Authors: Hsueh-Ti Derek Liu, Xiaoting Zhang, Cem Yuksel
+Paper ID: 1093
+------------------------------------------------------------
+Title: PartUV: Part-Based UV Unwrapping of 3D Meshes
+Authors: Zhaoning Wang, Xinyue Wei, Ruoxi Shi
+Paper ID: 1207
+------------------------------------------------------------
+Title: Solid-Shell Labeling for Discrete Surfaces
+Authors: Siqi Wang, Janos Meny, Izak Grguric
+Paper ID: 1239
+------------------------------------------------------------
+Title: RibbonSculpt: Voronoi Ball based 3D Sculpting from Sparse VR Ribbons
+Authors: Anandhu SURESHKUMAR, Amal Dev PARAKKAT, Georges-Pierre BONNEAU
+Paper ID: 2322
+------------------------------------------------------------
+Title: Precise Gradient Discontinuities in Neural Fields for Subspace Physics
+Authors: Mengfei Liu, Yue Chang, Zhecheng Wang
+Paper ID: 1003
+------------------------------------------------------------
+Title: Variational Neural Surfacing of 3D Sketches
+Authors: Yutao Zhang, Stephanie Wang, Mikhail Bessmeltsev
+Paper ID: 1641
+------------------------------------------------------------
+Title: NeuVAS: Neural Implicit Surfaces for Variational Shape Modeling
+Authors: Pengfei Wang, Qiujie Dong, Fangtian Liang
+Paper ID: 1755
+------------------------------------------------------------
+Title: Neural Kinematic Bases for Fluids
+Authors: Yibo Liu, Zhixin Fang, Sune Darkner
+Paper ID: 1795
+------------------------------------------------------------
+Title: Neural Octahedral Field: Octahedral Prior for Simultaneous Smoothing and Sharp Edge Regularization
+Authors: Ruichen Zheng, Tao Yu, Ruizhen Hu
+Paper ID: 2228
+------------------------------------------------------------
+Title: Practical Gaussian Process Implicit Surfaces with Sparse Convolutions
+Authors: Kehan Xu, Benedikt Bitterli, Eugene d'Eon
+Paper ID: 1744
+------------------------------------------------------------
+Title: Generative Head-Mounted Camera Captures for Photorealistic Avatars
+Authors: Shaojie Bai, Seunghyeon Seo, Yida Wang
+Paper ID: 1374
+------------------------------------------------------------
+Title: InfiniHuman: Realistic 3D Human Creation with Precise Control
+Authors: Yuxuan Xue, Xianghui Xie, Margaret Kostyrko
+Paper ID: 1018
+------------------------------------------------------------
+Title: HRM^2Avatar: High-Fidelity Real-Time Mobile Avatars from Monocular Phone Scans
+Authors: Chao Shi, Shenghao Jia, Jinhui Liu
+Paper ID: 1586
+------------------------------------------------------------
+Title: PriorAvatar: Efficient and Robust Avatar Creation from Monocular Video Using Learned Priors
+Authors: Tianjian Jiang, Hsuan-I Ho, Manuel Kaufmann
+Paper ID: 2119
+------------------------------------------------------------
+Title: Constructing Diffusion Avatar with Learnable Embeddings
+Authors: Xuan Gao, Jingtao Zhou, Dongyu Liu
+Paper ID: 1965
+------------------------------------------------------------
+Title: HumanLift: Single-Image 3D Human Reconstruction with 3D-Aware Diffusion Priors and Facial Enhancement
+Authors: Jie Yang, Bo-Tao Zhang, Feng-Lin Liu
+Paper ID: 1178
+------------------------------------------------------------
+Title: A Highly-Efficient Hybrid Simulation System for Flight Controller Design and Evaluation of Unmanned Aerial Vehicles
+Authors: Jiwei Wang, Wenbin Song, Yicheng Fan
+Paper ID: 1133
+------------------------------------------------------------
+Title: PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image
+Authors: Pradyumna Yalandur-Muralidhar, Yuxuan Xue, Xianghui Xie
+Paper ID: 1360
+------------------------------------------------------------
+Title: FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters
+Authors: Minkwan Kim, Yoonsang Lee
+Paper ID: 2447
+------------------------------------------------------------
+Title: CFC: Simulating Character-Fluid Coupling using a Two-Level World Model
+Authors: Zhiyang Dou, Chen Peng, Xinyu Lu
+Paper ID: 1613
+------------------------------------------------------------
+Title: Fast & Stable Control of Coupled Solid-Fluid Dynamic Systems
+Authors: Jie Chen, Zherong Pan, Bo Ren
+Paper ID: 2360
+------------------------------------------------------------
+Title: Force-Dual Modes: Subspace Design from Stochastic Forces
+Authors: Otman Benchekroun, Eitan Grinspun, Maurizio Chiaramonte
+Paper ID: 1535
+------------------------------------------------------------
+Title: Waste-to-Value: Reutilized Material Maximization for Additive and Subtractive Hybrid Remanufacturing
+Authors: Fanchao Zhong, Zhenmin Zhang, Liyuan Wang
+Paper ID: 1570
+------------------------------------------------------------
+Title: Can Any Model Be Fabricated? Inverse Operation Based Planning for Hybrid Additive–Subtractive Manufacturing
+Authors: Yongxue Chen, Tao Liu, Yuming Huang
+Paper ID: 2154
+------------------------------------------------------------
+Title: Chapper: Carvable Hull-and-Pack for Subtractive Manufacturing
+Authors: Zhenmin Zhang, Shuai Feng, Hao Xu
+Paper ID: 1590
+------------------------------------------------------------
+Title: MiGumi: Making Tightly Coupled Integral Joints Millable
+Authors: Aditya Ganeshan, Kurt Fleischer, Wenzel Jakob
+Paper ID: 1426
+------------------------------------------------------------
+Title: Curve-Based Slicer for Multi-Axis DLP 3D Printing
+Authors: Chengkai Dai, Liu Tao, Dezhao Guo
+Paper ID: 2095
+------------------------------------------------------------
+Title: INF-3DP: Implicit Neural Fields for Collision-Free Multi-Axis 3D Printing
+Authors: Jiasheng Qu, Zhuo Huang, Dezhao Guo
+Paper ID: 2105
+------------------------------------------------------------
+Title: NeuralPVS: Learned Estimation of Potentially Visible Sets
+Authors: Xiangyu Wang, Thomas Köhler, Jun Lin Qiu
+Paper ID: 1060
+------------------------------------------------------------
+Title: Neural Visibility of Point Sets
+Authors: Jun-Hao Wang, Yi-Yang Tian, Baoquan Chen
+Paper ID: 1388
+------------------------------------------------------------
+Title: Potentially Visible Set Generation with the Disocclusion Buffer
+Authors: Sebastian Künzel, Sergej Geringer, Quynh Quang Ngo
+Paper ID: 2150
+------------------------------------------------------------
+Title: Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering
+Authors: Sipeng Yang, Jiayu Ji, Junhao Zhuge
+Paper ID: 2067
+------------------------------------------------------------
+Title: Consecutive Frame Extrapolation with Predictive Sparse Shading
+Authors: Zhizhen Wu, Zhe Cao, Yazhen Yuan
+Paper ID: 2231
+------------------------------------------------------------
+Title: Audio Driven Real-Time Facial Animation for Social Telepresence
+Authors: Jiye Lee, Chenghui Li, Linh Tran
+Paper ID: 1264
+------------------------------------------------------------
+Title: LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation
+Authors: Xin Lu, Chuanqing Zhuang, Chenxi Jin
+Paper ID: 1520
+------------------------------------------------------------
+Title: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation
+Authors: Jiahao Cui, Baoyou Chen, Mingwang Xu
+Paper ID: 1730
+------------------------------------------------------------
+Title: Audio-Driven Universal Gaussian Head Avatars
+Authors: Kartik Teotia, Helge Rhodin, Mohit Mendiratta
+Paper ID: 1860
+------------------------------------------------------------
+Title: ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model
+Authors: Xuangeng Chu, Nabarun Goswami, Ziteng Cui
+Paper ID: 1975
+------------------------------------------------------------
+Title: X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio
+Authors: Chenxu Zhang, Zenan Li, Hongyi Xu
+Paper ID: 2207
+------------------------------------------------------------
+Title: LEGO-Maker: Autoregressive Image-Conditioned LEGO Model Creation
+Authors: Jiahao Ge, Mingjun Zhou, Hanyou Zheng
+Paper ID: 1159
+------------------------------------------------------------
+Title: LegoACE: Autoregressive Construction Engine for Expressive LEGO Assemblies
+Authors: Hao Xu, Yuqing Zhang, Yiqian Wu
+Paper ID: 1473
+------------------------------------------------------------
+Title: Computational Design of Shape-Aware Sieves
+Authors: David Cha, Oded Stein
+Paper ID: 1432
+------------------------------------------------------------
+Title: Designing with Tension: Nearly-Developable Patch Layouts
+Authors: Anna Maria Eggler, Nico Pietroni, Pengbin Tang
+Paper ID: 1871
+------------------------------------------------------------
+Title: Inverse Tiling of 2D Finite Domains
+Authors: Rulin Chen, Xuyang Ma, Praveer Tewari
+Paper ID: 1136
+------------------------------------------------------------
+Title: CameraVDP: Perceptual Display Assessment with Uncertainty Estimation via Camera and Visual Difference Prediction
+Authors: Yancheng Cai, Robert Wanat, Rafal Mantiuk
+Paper ID: 1077
+------------------------------------------------------------
+Title: DiffCamera: Arbitrary Refocusing on Images
+Authors: Yiyang Wang, Xi Chen, Xiaogang Xu
+Paper ID: 1081
+------------------------------------------------------------
+Title: Learning to Refocus with Video Diffusion Models
+Authors: SaiKiran Tedla, Zhoutong Zhang, Xuaner Zhang
+Paper ID: 1422
+------------------------------------------------------------
+Title: Generating the Past, Present and Future from a Motion-Blurred Image
+Authors: SaiKiran Tedla, Kelly Zhu, Trevor Canham
+Paper ID: 1460
+------------------------------------------------------------
+Title: Automated Design of Compound Lenses with Discrete-Continuous Optimization
+Authors: Arjun Teh, Delio Vicini, Bernd Bickel
+Paper ID: 1250
+------------------------------------------------------------
+Title: UltraZoom: Generating Gigapixel Images from Regular Photos
+Authors: Jingwei Ma, Vivek Jayaram, Brian Curless
+Paper ID: 1761
+------------------------------------------------------------
+Title: Nonlinear Noise2Noise for Efficient Monte Carlo Denoiser Training
+Authors: Andrew Tinits, Stephen Mann
+Paper ID: 1824
+------------------------------------------------------------
+Title: Statistical Error Reduction for Monte Carlo Rendering
+Authors: Hiroyuki Sakai, Christian Freude, Michael Wimmer
+Paper ID: 2326
+------------------------------------------------------------
+Title: DSCombiner: Double Shrinkage for Combining Biased and Unbiased Monte Carlo Renderings
+Authors: Chenxi Zhou, Keheng Xu, Mufan Guo
+Paper ID: 1592
+------------------------------------------------------------
+Title: Jackknife Transmittance and MIS Weight Estimation
+Authors: Christoph Peters
+Paper ID: 1053
+------------------------------------------------------------
+Title: Imperfect Image-Space Control Variates for Monte Carlo Rendering
+Authors: Chanu Yang, Bochang Moon
+Paper ID: 1797
+------------------------------------------------------------
+Title: SZ Sequences: Binary-Constructed $(0, 2^q)$-Sequences
+Authors: Abdalla G. M. Ahmed, Matt Pharr, Victor Ostromoukhov
+Paper ID: 1042
+------------------------------------------------------------
+Title: Automatic Sampling for Discontinuities in Differentiable Shaders
+Authors: Yash Belhe, Ishit Mehta, Wesley Chang
+Paper ID: 1252
+------------------------------------------------------------
+Title: Differentiable Light Transport with Gaussian Surfels via Adapted Radiosity for Efficient Relighting and Geometry Reconstruction
+Authors: Kaiwen Jiang, Jia-Mu Sun, Zilu Li
+Paper ID: 1435
+------------------------------------------------------------
+Title: Spectral Reconstruction with Uncertainty Quantification via Differentiable Rendering and Null-Space Sampling
+Authors: Mengqi Xia, Bai Xue, Rachel Liang
+Paper ID: 1757
+------------------------------------------------------------
+Title: Adaptive Neural Kernels for Gradient-domain Rendering
+Authors: Matthieu Josse, Joey Litalien, Adrien Gruson
+Paper ID: 1766
+------------------------------------------------------------
+Title: Generalized Unbiased Reconstruction for Gradient-Domain Rendering
+Authors: Difei Yan, Zengyu Li, Lifan Wu
+Paper ID: 1309
+------------------------------------------------------------
+Title: ShapeGen: Towards High-Quality 3D Shape Synthesis
+Authors: Yangguang Li, Xianglong He, Zi-Xin Zou
+Paper ID: 1005
+------------------------------------------------------------
+Title: Autoregressive Generation of Static and Growing Trees
+Authors: Hanxiao Wang, Biao Zhang, Jonathan Klein
+Paper ID: 1032
+------------------------------------------------------------
+Title: OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion
+Authors: Yunhan Yang, Yufan Zhou, Yuan-Chen Guo
+Paper ID: 1412
+------------------------------------------------------------
+Title: ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction
+Authors: Qimin Chen, Yuezhi Yang, Yifan Wang
+Paper ID: 1446
+------------------------------------------------------------
+Title: SPGen: Spherical Projection as Consistent and Flexible Representation for Single Image 3D Shape Generation
+Authors: Jingdong Zhang, Weikai Chen, Yuan Liu
+Paper ID: 1992
+------------------------------------------------------------
+Title: DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model
+Authors: Weiguang Zhang, Huangcheng Lu, Maizhen Ning
+Paper ID: 1719
+------------------------------------------------------------
+Title: HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting
+Authors: Xin Wang, Di Lin, Wanchao Su
+Paper ID: 1848
+------------------------------------------------------------
+Title: Harnessing Diffusion-Yielded Score Priors for Image Restoration
+Authors: Xinqi Lin, Fanghua Yu, Jinfan Hu
+Paper ID: 2027
+------------------------------------------------------------
+Title: ELAD: Blind Face Restoration using Expectation-based Likelihood Approximation and Diffusion Prior
+Authors: Sean Man, Guy Ohayon, Ron Raphaeli
+Paper ID: 2056
+------------------------------------------------------------
+Title: Self-supervised Underwater Color Restoration via Wavelet-Diffusion Model with Filtered Multi-Scale Feature Distillation
+Authors: Xin Zhang, zhuang Zhou, Yixiao Yang
+Paper ID: 2401
+------------------------------------------------------------
+Title: Supra-threshold Contrast Perception in Augmented Reality
+Authors: Dongyeon Kim, Maliha Ashraf, Alexandre Chapiro
+Paper ID: 1073
+------------------------------------------------------------
+Title: Vertical Binocular Misalignment in AR Impairs Reading Performance
+Authors: Daniel Gurman, Daniel P. Spiegel, Kevin W. Rio
+Paper ID: 2458
+------------------------------------------------------------
+Title: Modeling and Exploiting the Time Course of Chromatic Adaptation for Display Power Optimizations in Virtual Reality
+Authors: Ethan Chen, Sushant Kondguli, Carl Marshall
+Paper ID: 1287
+------------------------------------------------------------
+Title: Performance Analysis of Catch-Up Eye Movements in Visual Tracking
+Authors: Jenna Kang, Budmonde Duinkharjav, Niall Williams
+Paper ID: 1173
+------------------------------------------------------------
+Title: Glare Pattern Depiction: High-Fidelity Physical Computation and Physiologically-Inspired Visual Response
+Authors: Yuxiang Sun, Gladimir Baranoski
+Paper ID: 2156
+------------------------------------------------------------
+Title: MILO: A Lightweight Perceptual Quality Metric for Image and Latent-Space Optimization
+Authors: Ugur Cogalan, Mojtaba Bemana, Karol Myszkowski
+Paper ID: 1905
+------------------------------------------------------------
+Title: EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly
+Authors: Xiaokun Pan, Zhenzhe Li, Zhichao Ye
+Paper ID: 1453
+------------------------------------------------------------
+Title: Inverse Radiative Transport for Infrared Scenes with Gaussian Primitives
+Authors: Zhenyuan Desmond Liu, Bharath Seshadri, George Kopanas
+Paper ID: 1849
+------------------------------------------------------------
+Title: Efficient Object Reconstruction with Differentiable Area Light Shading
+Authors: Yaoan Gao, Jiamin Xu, James Tompkin
+Paper ID: 1375
+------------------------------------------------------------
+Title: WATER: Watertight Tessellation for Real-Time Pixel-Accurate Rendering of Large-Scale Surfaces
+Authors: Yajun Zeng, Yang Lu, Cong Chen
+Paper ID: 1611
+------------------------------------------------------------
+Title: GigaSLAM: Large-Scale Monocular SLAM with Hierarchical Gaussian Splats
+Authors: Kai Deng, Yigong Zhang, Jian Yang
+Paper ID: 1827
+------------------------------------------------------------
+Title: Artifact-Resilient Real-Time Holography
+Authors: Victor Chu, Oscar Pueyo-Ciutad, Ethan Tseng
+Paper ID: 2227
+------------------------------------------------------------
+Title: TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction
+Authors: Daheng Yin, Isaac Ding, Yili Jin
+Paper ID: 1094
+------------------------------------------------------------
+Title: Clustered Error Correction with Grouped 4D Gaussian Splatting
+Authors: Taeho Kang, Jaeyeon Park, Kyungjin Lee
+Paper ID: 1336
+------------------------------------------------------------
+Title: Anchored 4D Gaussian Splatting for Dynamic Novel View Synthesis
+Authors: Yilong Li, Bo Pang, Yisong Chen
+Paper ID: 1616
+------------------------------------------------------------
+Title: Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video
+Authors: Meng-Li Shih, Ying-Huan Chen, Yu-Lun Liu
+Paper ID: 1687
+------------------------------------------------------------
+Title: 4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture
+Authors: Yutian Chen, Shi Guo, Tianshuo Yang
+Paper ID: 1682
+------------------------------------------------------------
+Title: Split4D: Decomposed 4D Scene Reconstruction Without Video Segmentation
+Authors: Yongzhen Hu, Yihui Yang, Haotong Lin
+Paper ID: 1986
+------------------------------------------------------------
+Title: Numerical Homogenization of Sand from Grain-level Simulations
+Authors: Yi-Lu Chen, Mickaël Ly, Chris Wojtan
+Paper ID: 2018
+------------------------------------------------------------
+Title: Improving Curl Noise
+Authors: J. Andreas Bærentzen, Jonàs Martínez, Jeppe Revall Frisvad
+Paper ID: 2138
+------------------------------------------------------------
+Title: Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video
+Authors: Yarin Bekor, Gal Michael Harari, Or Perel
+Paper ID: 2309
+------------------------------------------------------------
+Title: QMF-Blend: Quantized Matrix Factorization for Efficient Blendshape Compression
+Authors: Roman Fedotov, Brian Budge, Ladislav Kavan
+Paper ID: 1996
+------------------------------------------------------------
+Title: AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation
+Authors: Haoyuan Shi, Yunxin Li, Xinyu Chen
+Paper ID: 2559
+------------------------------------------------------------
+Title: Shape-aware Inertial Poser: Motion Tracking for Humans with Diverse Shapes Using Sparse Inertial Sensors
+Authors: Lu Yin, Ziying Shi, Yinghao Wu
+Paper ID: 1537
+------------------------------------------------------------
+Title: GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling
+Authors: Siran Li, Ruiyang Liu, Chen Liu
+Paper ID: 1028
+------------------------------------------------------------
+Title: Realistic Cloth Rendering with a Ray-Wave Hybrid Shading Model
+Authors: Yunchen Yu, Bruce Walter, Steve Marschner
+Paper ID: 2192
+------------------------------------------------------------
+Title: Progressive Outfit Assembly and Instantaneous Pose Transfer
+Authors: Dewen Guo, Zhendong Wang, Zegao Liu
+Paper ID: 1386
+------------------------------------------------------------
+Title: Neighbor-Aware Data-Driven Relaxation of Stitch Mesh Models for Knits
+Authors: Yura Hwang, Jenny Han Lin, Jerry Hsu
+Paper ID: 1533
+------------------------------------------------------------
+Title: A Nonconforming Formulation of Cloth
+Authors: Elias Gueidon, Maurizio M. Chiaramonte
+Paper ID: 2212
+------------------------------------------------------------
+Title: AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry
+Authors: Xiang Xu, Pradeep Jayaraman, Joseph Lambourne
+Paper ID: 1016
+------------------------------------------------------------
+Title: BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch
+Authors: Pu Li, Wenhao Zhang, Weize Quan
+Paper ID: 1666
+------------------------------------------------------------
+Title: NURBS-Based Grid Shell Form Finding on Domains with Topologically Arbitrary Boundaries
+Authors: Masaaki Miki, Toby Mitchell
+Paper ID: 1147
+------------------------------------------------------------
+Title: Overlap Region Extraction of Two NURBS Surfaces
+Authors: Jieyin Yang, Xiaohong Jia
+Paper ID: 1507
+------------------------------------------------------------
+Title: $G^2$ Interpolating Spline with Local Maximum Curvature
+Authors: Bowen Jiang, Renjie Chen
+Paper ID: 1596
+------------------------------------------------------------
+Title: Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization
+Authors: Yang You, Mikaela Uy, Jiaqi Han
+Paper ID: 1539
+------------------------------------------------------------
+Title: Curvature Enthusiasm: Correspondence-Free Interpolation and Matching of Articulated 3D Shapes using Compressed Normal Cycles
+Authors: Adam Hartshorne, Allen Paul, Tony Shardlow
+Paper ID: 2420
+------------------------------------------------------------
+Title: Motion In-Betweening for Densely Interacting Characters
+Authors: Xiaotang Zhang, Ziyi Chang, Qianhui Men
+Paper ID: 1934
+------------------------------------------------------------
+Title: Control Operators for Interactive Character Animation
+Authors: Ruiyu Gou, Michiel van de Panne, Daniel Holden
+Paper ID: 1632
+------------------------------------------------------------
+Title: Environment-aware Motion Matching
+Authors: Jose Luis Ponton, Sheldon Andrews, Carlos Andujar
+Paper ID: 1784
+------------------------------------------------------------
+Title: StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data
+Authors: Yuxuan Mu, Hung Yu Ling, Yi Shi
+Paper ID: 1029
+------------------------------------------------------------
+Title: Learning to Ball: Composing Policies for Long-Horizon Basketball Moves
+Authors: Pei Xu, Zhen Wu, Ruocheng Wang
+Paper ID: 2494
+------------------------------------------------------------
+Title: Low-Rank Adaptation of Neural Fields
+Authors: Anh Truong, Ahmed H. Mahmoud, Mina Konaković Luković
+Paper ID: 1479
+------------------------------------------------------------
+Title: Spectral Prefiltering of Neural Fields
+Authors: Mustafa B. YALDIZ, Ishit Mehta, Nithin Raghavan
+Paper ID: 1650
+------------------------------------------------------------
+Title: Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes
+Authors: Christian Stippel, Felix Mujkanovic, Thomas Leimkühler
+Paper ID: 1740
+------------------------------------------------------------
+Title: SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction
+Authors: Lukas Radl, Felix Windisch, Thomas Deixelberger
+Paper ID: 1830
+------------------------------------------------------------
+Title: MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction
+Authors: Antoine Guédon, Diego Gomez, Nissim Maruani
+Paper ID: 1884
+------------------------------------------------------------
+Title: RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer
+Authors: Da Li, Donggang Jia, Yousef Rajeh
+Paper ID: 2168
+------------------------------------------------------------
+Title: Capturing Non-Linear Human Perspective in Line Drawings
+Authors: Jinfan Yang, Leo Foord-Kelcey, Suzuran Takikawa
+Paper ID: 1654
+------------------------------------------------------------
+Title: AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion
+Authors: Hsiao-Yuan Chin, I-Chao Shen, Yi-Ting Chiu
+Paper ID: 1086
+------------------------------------------------------------
+Title: KISSColor: Kinetic and Intuitive Stroke Stretching for Vector Drawing Colorization
+Authors: Yiming Dong, Hongxu Xin, Zhiyang Dou
+Paper ID: 1500
+------------------------------------------------------------
+Title: LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization
+Authors: Ronghuan Wu, Wanchao Su, Jing Liao
+Paper ID: 2008
+------------------------------------------------------------
+Title: Neural Image abstraction using long smoothing B-splines
+Authors: Daniel Berio, Michael Stroh, Sylvain Calinon
+Paper ID: 2019
+------------------------------------------------------------
+Title: UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images
+Authors: Yiming Zhao, Yuanpeng Gao, Yuxuan Luo
+Paper ID: 1793
+------------------------------------------------------------
+Title: Object-level Visual Prompts for Compositional Image Generation
+Authors: Gaurav Parmar, Or Patashnik, Kuan-Chieh Wang
+Paper ID: 1381
+------------------------------------------------------------
+Title: ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation
+Authors: Guocheng Qian, Daniil Ostashev, Egor Nemchinov
+Paper ID: 2203
+------------------------------------------------------------
+Title: PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples
+Authors: Junyu Liu, R. Kenny Jones, Daniel Ritchie
+Paper ID: 1918
+------------------------------------------------------------
+Title: AGSwap: Overcoming Category Boundaries in Object Fusion via Adaptive Group Swapping
+Authors: Zedong Zhang, ying tai, Jianjun Qian
+Paper ID: 1885
+------------------------------------------------------------
+Title: MALeR: Improving Compositional Fidelity in Layout-Guided Generation
+Authors: Shivank Saxena, Dhruv Srivastava, Makarand Tapaswi
+Paper ID: 1917
+------------------------------------------------------------
+Title: One String to Pull Them All: Fast Assembly of Curved Structures from Flat Auxetic Linkages
+Authors: Akib Zaman, Jacqueline Aslarus, Jiaji Li
+Paper ID: 2159
+------------------------------------------------------------
+Title: Discovering Folding Lines for Surface Compression
+Authors: Toshiki Aoki, Tomohiro Tachi, Mina Konakovic Lukovic
+Paper ID: 2197
+------------------------------------------------------------
+Title: Reconfigurable Hinged Kirigami Tessellations
+Authors: Aviv Segall, Jing Ren, Marcel Padilla
+Paper ID: 1602
+------------------------------------------------------------
+Title: Snapping Deployable Toroids for Modular Gridshells
+Authors: Felix Dellinger, Martin Kilian, Munkyun Lee
+Paper ID: 1636
+------------------------------------------------------------
+Title: Closed-Form Construction of Voronoi Diagrams with Star-Shaped Metrics
+Authors: Haoyang Zhou, Logan Numerow, Stelian Coros
+Paper ID: 1302
+------------------------------------------------------------
+Title: Star-Shaped Distance Voronoi Diagrams for 3D Metamaterial Design
+Authors: Logan Numerow, Stelian Coros, Bernhard Thomaszewski
+Paper ID: 2335
+------------------------------------------------------------
+Title: Auto Hair Card Extraction for Smooth Hair with Differentiable Rendering
+Authors: Zhongtian Zheng, Tao Huang, Haozhe Su
+Paper ID: 1299
+------------------------------------------------------------
+Title: Strands2Cards: Automatic Generation of Hair Cards from Strands
+Authors: Kenji Tojo, Liwen Hu, Nobuyuki Umetani
+Paper ID: 1368
+------------------------------------------------------------
+Title: Shaping Strands with Neural Style Transfer
+Authors: Beyzanur Coban, Pascal Chang, Guilherme Gomes Haetinger
+Paper ID: 2365
+------------------------------------------------------------
+Title: CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling
+Authors: Yuze He, Yanning Zhou, Wang Zhao
+Paper ID: 1711
+------------------------------------------------------------
+Title: Single-Shot Facial Capture using Polarized RGB Sinusoidal Illumination
+Authors: Arvin Lin, Abhijeet Ghosh
+Paper ID: 1879
+------------------------------------------------------------
+Title: Single Image 3D Portrait Relighting with Generative Priors
+Authors: Pramod Rao, Xilong Zhou, Abhimitra Meka
+Paper ID: 2005
+------------------------------------------------------------
+Title: Computational Modeling and Design of Capacitive Stretch Sensors
+Authors: Arvi Gjoka, Yongkang Sun, Roi Poranne
+Paper ID: 1074
+------------------------------------------------------------
+Title: Designing and Fabricating Color BRDFs with Differentiable Wave Optics
+Authors: Yixin Zeng, Kiseok Choi, Hadi Amata
+Paper ID: 1082
+------------------------------------------------------------
+Title: Acoustic Reliefs
+Authors: Jeremy Chew, Michal Piovarci, Kangrui Xue
+Paper ID: 1187
+------------------------------------------------------------
+Title: PhysiOpt: Physics-Driven Shape Optimization for 3D Generative Models
+Authors: Xiao Zhan, Clément Jambon, Evan Thompson
+Paper ID: 1484
+------------------------------------------------------------
+Title: Large-Area Fabrication-aware Computational Diffractive Optics
+Authors: Kaixuan Wei, Hector Romero, Hadi Amata
+Paper ID: 2171
+------------------------------------------------------------
+Title: VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models
+Authors: Geonung Kim, Janghyeok Han, Sunghyun Cho
+Paper ID: 1405
+------------------------------------------------------------
+Title: SS4D: Native 4D Generative Model via Structured Spacetime Latents
+Authors: Zhibing Li, Mengchen Zhang, Tong Wu
+Paper ID: 1416
+------------------------------------------------------------
+Title: Generating 360° Video is What You Need For a 3D Scene
+Authors: Zhaoyang Zhang, Yannick Hold-Geoffroy, Miloš Hašan
+Paper ID: 1445
+------------------------------------------------------------
+Title: PanoDreamer: Optimization-Based Single Image to 360 3D Scene With Diffusion
+Authors: Avinash Paliwal, Xilong Zhou, Andrii Tsarov
+Paper ID: 1483
+------------------------------------------------------------
+Title: WorldExplorer: Towards Generating Fully Navigable 3D Scenes
+Authors: Manuel-Andreas Schneider, Lukas Höllein, Matthias Niessner
+Paper ID: 1915
+------------------------------------------------------------
+Title: Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation
+Authors: Tianyu Huang, Wangguandong Zheng, Tengfei Wang
+Paper ID: 1747
+------------------------------------------------------------
+Title: Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents
+Authors: Zeyi Zhang, Yanju Zhou, Heyuan Yao
+Paper ID: 1469
+------------------------------------------------------------
+Title: How Does a Virtual Agent Decide Where to Look? Symbolic Cognitive Reasoning for Embodied Head Rotation
+Authors: Juyeong Hwang, Seong-Eun Hong, JaeYoung Seon
+Paper ID: 1244
+------------------------------------------------------------
+Title: Echo: Enhancing Conversational Behavior Generation via Hierarchical Semantic Comprehension with Large Language Models
+Authors: Haiwei Xue, Yanbo Fan, Xuan Wang
+Paper ID: 2382
+------------------------------------------------------------
+Title: SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis
+Authors: Haoran Chen, Yiteng Xu, Yiming Ren
+Paper ID: 1732
+------------------------------------------------------------
+Title: Unifying Latent Action and Latent State Pre-training for Policy Learning from Videos
+Authors: Guangyan Chen, Meiling Wang, Te Cui
+Paper ID: 2031
+------------------------------------------------------------
+Title: JoruriPuppet: Learning Tempo-Changing Mechanisms Beyond the Beat for Music-to-Motion Generation with Expressive Metrics
+Authors: Ran Dong, Shaowen Ni, Xi Yang
+Paper ID: 2493
+------------------------------------------------------------
+Title: PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos
+Authors: Ting-Hsuan Liao, Haowen Liu, Yiran Xu
+Paper ID: 1168
+------------------------------------------------------------
+Title: Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture
+Authors: Julien Philip, Li Ma, Pascal Clausen
+Paper ID: 1841
+------------------------------------------------------------
+Title: GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes
+Authors: Guo Chen, Jiarun Liu, Sicong Du
+Paper ID: 1545
+------------------------------------------------------------
+Title: Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering
+Authors: Hai-Long Qin, Sixian Wang, Guo Lu
+Paper ID: 2405
+------------------------------------------------------------
+Title: MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars
+Authors: Felix Taubner, Ruihang Zhang, Mathieu Tuli
+Paper ID: 1532
+------------------------------------------------------------
+Title: MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis
+Authors: Yihao Zhi, Chenghong Li, Hongjie Liao
+Paper ID: 1837
+------------------------------------------------------------
+Title: Jump Restore Light Transport
+Authors: Sascha Holl, Gurprit Singh, Hans-Peter Seidel
+Paper ID: 1176
+------------------------------------------------------------
+Title: Gaussian Integral Linear Operators for Precomputed Graphics
+Authors: Haolin Lu, Yash Belhe, Gurprit Singh
+Paper ID: 1648
+------------------------------------------------------------
+Title: Harmonic Caching for Walk on Spheres
+Authors: Zihong Zhou, Eugene d'Eon, Rohan Sawhney
+Paper ID: 1659
+------------------------------------------------------------
+Title: Robust Derivative Estimation with Walk on Stars
+Authors: Zihan Yu, Rohan Sawhney, Bailey Miller
+Paper ID: 1782
+------------------------------------------------------------
+Title: Off-Centered WoS-Type Solvers with Statistical Weighting
+Authors: Anchang Bao, Jie Xu, Enya Shen
+Paper ID: 1258
+------------------------------------------------------------
+Title: An Adjoint Method for Differentiable Fluid Simulation on Flow Maps
+Authors: Zhiqi Li, Jinjin He, Barnabás Börcsök
+Paper ID: 1656
+------------------------------------------------------------
+Title: BSP-OT: Sparse transport plans between discrete measures in loglinear time
+Authors: Baptiste Genest, Nicolas Bonneel, Vincent Nivoliers
+Paper ID: 1119
+------------------------------------------------------------
+Title: Efficient and Scalable Spatial Regularization of Optimal Transport
+Authors: Lucas Brifault, David Cohen-Steiner, Mathieu Desbrun
+Paper ID: 2099
+------------------------------------------------------------
+Title: Medial Sphere Preconditioning for Knot Untangling and Volume-Filling Curves
+Authors: Yuta Noma, Alec Jacobson, Karan Singh
+Paper ID: 1319
+------------------------------------------------------------
+Title: CrossGen: Learning and Generating Cross Fields for Quad Meshing
+Authors: Qiujie Dong, Jiepeng Wang, Rui Xu
+Paper ID: 1361
+------------------------------------------------------------
+Title: Sums of Wedges: Conforming Weighted Delaunay Triangulations are Polynomial in Fixed Dimension
+Authors: Dimitrios Bogiokas, Ugo Finnendahl, Thorsten Seidelmann
+Paper ID: 2499
+------------------------------------------------------------
+Title: Lifted Surfacing of Generalized Sweep Volumes
+Authors: Yiwen Ju, Qingnan Zhou, Xingyi Du
+Paper ID: 2224
+------------------------------------------------------------
+Title: AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting
+Authors: Gurutva Patle, Nilay Girgaonkar, Nagabhushan Somraj
+Paper ID: 2317
+------------------------------------------------------------
+Title: Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images
+Authors: Jiatong Xia, Lingqiao Liu
+Paper ID: 2108
+------------------------------------------------------------
+Title: MODepth: Benchmarking Mobile Multi-frame Monocular Depth Estimation with Optical Image Stabilization
+Authors: Yu Lu, Hao Pan, Dian Ding
+Paper ID: 2307
+------------------------------------------------------------
+Title: From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters
+Authors: Jie ZHOU, Linzi QU, Miu-Ling LAM
+Paper ID: 1116
+------------------------------------------------------------
+Title: Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction
+Authors: Li Wang, Yiyu Zhuang, Yanwen Wang
+Paper ID: 1307
+------------------------------------------------------------
+Title: AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models
+Authors: Zehuan Huang, Haoran Feng, Yang-Tian Sun
+Paper ID: 1495
+------------------------------------------------------------
+Title: Animus3D: Text-driven 3D Animation via Motion Score Distillation
+Authors: Qi Sun, Can Wang, Jiaxiang Shang
+Paper ID: 1745
+------------------------------------------------------------
+Title: X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents
+Authors: GUOXIAN SONG, Hongyi Xu, Xiaochen Zhao
+Paper ID: 1951
+------------------------------------------------------------
+Title: FairyGen: Storied Cartoon Video from a Single Child-Drawn Character
+Authors: Jiayi Zheng, Xiaodong Cun
+Paper ID: 2503
+------------------------------------------------------------
+Title: Evaluating and Sampling Glinty NDFs in Constant Time
+Authors: Pauli Kemppinen, Loïs Paulin, Théo Thonat
+Paper ID: 1120
+------------------------------------------------------------
+Title: 3D SMoE Splatting for Edge-aware Realtime Radiance Field Rendering
+Authors: Yi-Hsin Li, Thomas Sikora, Sebastian Knorr
+Paper ID: 1626
+------------------------------------------------------------
+Title: AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views
+Authors: Lihan Jiang, Yucheng Mao, Linning Xu
+Paper ID: 1712
+------------------------------------------------------------
+Title: PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems
+Authors: Weikai Lin, Sushant Kondguli, Carl Marshall
+Paper ID: 1253
+------------------------------------------------------------
+Title: Sparse Cache Updates for Scalable Distributed Effect-Based Rendering
+Authors: Wolfgang Tatzgern, Pascal Stadlbauer, Joerg H. Mueller
+Paper ID: 2051
+------------------------------------------------------------
+Title: StereoFG: Generating Stereo Frames from Centered Feature Stream
+Authors: Chenyu Zuo, Yazhen Yuan, Zhizhen Wu
+Paper ID: 2009
+------------------------------------------------------------
+Title: Fovea Stacking: Imaging with Dynamic Localized Aberration Correction
+Authors: Shi Mao, Yogeshwar Nath Mishra, Wolfgang Heidrich
+Paper ID: 1096
+------------------------------------------------------------
+Title: Underwater Optical Backscatter Communications using Acousto-Optic Beam Steering
+Authors: Atul Rohit Agarwal, Dhawal Sirikonda, Atharv Agashe
+Paper ID: 1197
+------------------------------------------------------------
+Title: Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light
+Authors: Tzofi Klinghoffer, Siddharth Somasundaram, Xiaoyu Xiang
+Paper ID: 1890
+------------------------------------------------------------
+Title: Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding
+Authors: Jiaheng Li, Qiyu Dai, Lihan Li
+Paper ID: 1794
+------------------------------------------------------------
+Title: Transient LASSO: Transient Large-Scale Scene Reconstruction
+Authors: Dominik Scheuble, Andrea Ramazzina, Hanno Holzhüter
+Paper ID: 1688
+------------------------------------------------------------
+Title: LookUp3D: Data-Driven 3D Scanning
+Authors: Giancarlo Pereira, Yidan Gao, Yurii Piadyk
+Paper ID: 2209
+------------------------------------------------------------
+Title: Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation
+Authors: Xiaoming Zhu, Xu Huang, Qinghongbing Xie
+Paper ID: 2102
+------------------------------------------------------------
+Title: Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search
+Authors: Maxim Gumin, Do Heon Han, Seung Jean Yoo
+Paper ID: 1820
+------------------------------------------------------------
+Title: Hierarchical Neural Semantic Representation for 3D Semantic Correspondence
+Authors: Keyu Du, Jingyu Hu, Haipeng Li
+Paper ID: 1789
+------------------------------------------------------------
+Title: StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance
+Authors: Zefan Qu, Zhenwei Wang, Haoyuan Wang
+Paper ID: 1817
+------------------------------------------------------------
+Title: Fuse3D: Generating 3D Assets Controlled by Multi-Image Fusion
+Authors: Xuancheng Jin, Rengan Xie, Wenting Zheng
+Paper ID: 1881
+------------------------------------------------------------
+Title: In-2-4D: Inbetweening from Two Single-View Images to 4D Generation
+Authors: Sauradip Nag, Daniel Cohen-Or, Hao Zhang
+Paper ID: 1660
+------------------------------------------------------------
+Title: Motion2Motion: Cross-topology Motion Retargeting with Sparse Correspondence
+Authors: Ling-Hao Chen, Yuhong Zhang, Zixin Yin
+Paper ID: 1004
+------------------------------------------------------------
+Title: Ultrafast and Controllable Online Motion Retargeting for Game Scenarios
+Authors: Tianze Guo, Zhedong Chen, Yi Jiang
+Paper ID: 2085
+------------------------------------------------------------
+Title: SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes
+Authors: Sanjeev Muralikrishnan, Niladri Shekhar Dutt, Niloy J. Mitra
+Paper ID: 1529
+------------------------------------------------------------
+Title: PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction
+Authors: Qiao Feng, Yiming Huang, Yufu Wang
+Paper ID: 1949
+------------------------------------------------------------
+Title: Generating Detailed Character Motion from Blocking Poses
+Authors: Purvi Goel, Guy Tevet, C. Karen Liu
+Paper ID: 1425
+------------------------------------------------------------
+Title: MaskedManipulator: Versatile Whole-Body Manipulation
+Authors: Chen Tessler, Yifeng Jiang, Erwin Coumans
+Paper ID: 1834
+------------------------------------------------------------
+Title: The Granule-In-Cell Method for Simulating Sand--Water Mixtures
+Authors: Yizao Tang, Yuechen Zhu, Xingyu Ni
+Paper ID: 1103
+------------------------------------------------------------
+Title: Kinetic Free-Surface Flows and Foams with Sharp Interfaces
+Authors: Haoxiang Wang, Kui Wu, Hui Qiao
+Paper ID: 1192
+------------------------------------------------------------
+Title: Implicit Incompressible Porous Flow using SPH
+Authors: Timna Böttcher, Lukas Westhofen, Stefan Rhys Jeske
+Paper ID: 1701
+------------------------------------------------------------
+Title: Fire-X: Extinguishing Fire with Stoichiometric Heat Release
+Authors: Helge Wrede, Anton Wagner, Sarker Miraz Mahfuz
+Paper ID: 1850
+------------------------------------------------------------
+Title: Multiphase Particle-Based Simulation of Poro-Elasto-Capillary Effects
+Authors: Ruolan Li, Yanrui Xu, Yalan Zhang
+Paper ID: 1993
+------------------------------------------------------------
+Title: Wavelet Fluids
+Authors: Luan Lyu, Xiaohua Ren, Wei Cao
+Paper ID: 2284
+------------------------------------------------------------
+Title: Diffusion-Guided Relighting for Single-Image SVBRDF Estimation
+Authors: Youxin Xing, Zheng Zeng, Youyang Du
+Paper ID: 1001
+------------------------------------------------------------
+Title: EBREnv: SVBRDF Estimation in Uncontrolled Environment Lighting via Exemplar-Based Representation
+Authors: Li Wang, Jiajun Zhao, Lianghao Zhang
+Paper ID: 1674
+------------------------------------------------------------
+Title: Sparse SVBRDF Acquisition via Importance-Aware Illumination Multiplexing
+Authors: Lianghao Zhang, Zixuan Wang, Li Wang
+Paper ID: 1689
+------------------------------------------------------------
+Title: Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images
+Authors: Zhi Ying, Boxiang Rong, Jingyu Wang
+Paper ID: 1240
+------------------------------------------------------------
+Title: AniTex: Light-Geometry Consistent PBR Material Generation for Animatable Objects
+Authors: Jieting Xu, Ziyi Xu, Guoyuan An
+Paper ID: 1843
+------------------------------------------------------------
+Title: Hyperspectral Polarimetric BRDFs of Real-world Materials
+Authors: Yunseong Moon, Ryota Maeda, Suhyun Shin
+Paper ID: 1261
+------------------------------------------------------------
+Title: FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion
+Authors: Chuhao Chen, Isabella Liu, Xinyue Wei
+Paper ID: 1209
+------------------------------------------------------------
+Title: Generating Objects with Part-Articulation from a Single Image
+Authors: Ruijie Lu, Yu Liu, Jiaxiang Tang
+Paper ID: 1551
+------------------------------------------------------------
+Title: LARM: A Large Articulated Object Reconstruction Model
+Authors: Sylvia Yuan, Ruoxi Shi, Xinyue Wei
+Paper ID: 1208
+------------------------------------------------------------
+Title: ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents
+Authors: Honghua Chen, Yushi Lan, Yongwei Chen
+Paper ID: 1790
+------------------------------------------------------------
+Title: Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion
+Authors: Wang Zhao, Yanpei Cao, Jiale Xu
+Paper ID: 2073
+------------------------------------------------------------
+Title: LLM-Primitives: Large Language Model for 3D Reconstruction with Primitives
+Authors: kuan tian, zhihao hu, yonghang guan
+Paper ID: 1332
+------------------------------------------------------------
+Title: ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation
+Authors: Yohai Mazuz, Janna Bruner, Lior Wolf
+Paper ID: 1424
+------------------------------------------------------------
+Title: Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models
+Authors: Armando Fortes, Tianyi Wei, Shangchen Zhou
+Paper ID: 1676
+------------------------------------------------------------
+Title: PractiLight: Practical Light Control Using Foundational Diffusion Models
+Authors: Yotam Erel, Rishabh Dabral, Vladislav Golyanik
+Paper ID: 1961
+------------------------------------------------------------
+Title: Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA
+Authors: Rameen Abdal, Or Patashnik, Ekaterina Deyneka
+Paper ID: 2210
+------------------------------------------------------------
+Title: Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting
+Authors: Joji Joseph, Bharadwaj Amrutur, Shalabh Bhatnagar
+Paper ID: 1801
+------------------------------------------------------------
+Title: Rigidity-Aware 3D Gaussian Deformation from a Single Image
+Authors: Jinhyeok Kim, Jaehun Bang, Seunghyun Seo
+Paper ID: 1846
+------------------------------------------------------------
+Title: Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction
+Authors: Yiming Wang, Shaofei Wang, Marko Mihajlovic
+Paper ID: 1988
+------------------------------------------------------------
+Title: JumpingGS: Level-jump 3D Gaussian Representation for Delicate Textures in Aerial Large-scale Scene Rendering
+Authors: Jiongming Qin, Kaixuan Zhou, Yu Jiang
+Paper ID: 2060
+------------------------------------------------------------
+Title: TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores
+Authors: Zimu Liao, Jifeng Ding, Siwei Cui
+Paper ID: 2424
+------------------------------------------------------------
+Title: DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting
+Authors: Shuyi Zhou, Shengze Zhong, Kenshi Takayama
+Paper ID: 1347
+------------------------------------------------------------
+Title: One-shot Embroidery Customization via Contrastive LoRA Modulation
+Authors: Jun Ma, Qian He, Gaofeng He
+Paper ID: 1228
+------------------------------------------------------------
+Title: Teamwork: Collaborative Diffusion with Low-rank Coordination and Adaptation
+Authors: Sam Sartor, Pieter Peers
+Paper ID: 1391
+------------------------------------------------------------
+Title: Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Volumetric Performance Captures
+Authors: Yuancheng Xu, Wenqi Xian, Li Ma
+Paper ID: 1525
+------------------------------------------------------------
+Title: Proteus-ID: ID-Consistent and Motion-Coherent Video Customization
+Authors: Guiyu Zhang, Chen Shi, Zijian Jiang
+Paper ID: 1925
+------------------------------------------------------------
+Title: DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning
+Authors: Fulong Ye, Miao Hua, Pengze Zhang
+Paper ID: 2007
+------------------------------------------------------------
+Title: HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling
+Authors: Tobias Vontobel, Seyedmorteza Sadat, Farnood Salehi
+Paper ID: 2123
+------------------------------------------------------------
+Title: Physics-Based Motion Imitation with Adversarial Differential Discriminators
+Authors: Ziyu Zhang, Sergey Bashkirov, Dun Yang
+Paper ID: 1036
+------------------------------------------------------------
+Title: Learning Human Motion with Temporally Conditional Mamba
+Authors: Quang Nguyen, Tri Le, Baoru Huang
+Paper ID: 1923
+------------------------------------------------------------
+Title: SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization
+Authors: Hanyang Cao, Heyuan Yao, Libin Liu
+Paper ID: 1066
+------------------------------------------------------------
+Title: Uni-Inter Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts
+Authors: Sheng Liu, Yuanzhi Liang, Jiepeng Wang
+Paper ID: 1970
+------------------------------------------------------------
+Title: HOMA: Towards Generic Human-Object Interaction in Multimodal Driven Human Animation with Weak Conditions
+Authors: Ziyao Huang, Zixiang Zhou, Juan Cao
+Paper ID: 1359
+------------------------------------------------------------
+Title: RL-ACD: Reinforcement Learning-based Approximate Convex Decomposition
+Authors: Yuzhe Luo, Zherong Pan, Kui Wu
+Paper ID: 1026
+------------------------------------------------------------
+Title: ASIA: Adaptive 3D Segmentation using Few Image Annotations
+Authors: Sai Raj Kishore Perla, Aditya Vora, Sauradip Nag
+Paper ID: 1047
+------------------------------------------------------------
+Title: Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes
+Authors: Yuhan Wang, Weikai Chen, Zeyu Hu
+Paper ID: 1146
+------------------------------------------------------------
+Title: MATStruct: High-quality Medial Mesh Computation via Structure-aware Variational Optimization
+Authors: Ningna Wang, Rui Xu, Yibo Yin
+Paper ID: 1188
+------------------------------------------------------------
+Title: Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range Camera Trajectories using Spacetime Octrees
+Authors: Zeyu Ma, Adam Finkelstein, Jia Deng
+Paper ID: 1131
+------------------------------------------------------------
+Title: Design for Descent: What Makes a Shape Grammar Easy to Optimize?
+Authors: Milin Kodnongbua, Zihan Zhang, Nicholas Sharp
+Paper ID: 2466
+------------------------------------------------------------
+Title: LVT: Large-Scale Scene Reconstruction via Local View Transformers
+Authors: Tooba Imtiaz, Lucy Chai, Kathryn Heal
+Paper ID: 1174
+------------------------------------------------------------
+Title: CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians
+Authors: Weihang Liu, Yuhui Zhong, Yuke Li
+Paper ID: 1379
+------------------------------------------------------------
+Title: GSWT: Gaussian Splatting Wang Tiles
+Authors: Yunfan Zeng, Li Ma, Pedro Sander
+Paper ID: 2032
+------------------------------------------------------------
+Title: Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy
+Authors: Letian Huang, Jie Guo, Jialin Dan
+Paper ID: 1679
+------------------------------------------------------------
+Title: A compact stochastic representation for Monte Carlo Path Traced images
+Authors: Matthias Sebastian Treder, Pavlos Makridis, Alexis Lechat
+Paper ID: 1217
+------------------------------------------------------------
+Title: Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields
+Authors: Yohan Poirier-Ginter, Jeffrey Hu, Jean-Francois Lalonde
+Paper ID: 2062
+------------------------------------------------------------
+Title: In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation
+Authors: Yu Xu, Fan Tang, You Wu
+Paper ID: 1039
+------------------------------------------------------------
+Title: BlobCtrl: Taming Controllable Blob for Element-level Image Editing
+Authors: Yaowei Li, Lingen Li, Zhaoyang Zhang
+Paper ID: 1615
+------------------------------------------------------------
+Title: ConsistEdit: Highly Consistent and Precise Training-free Visual Editing
+Authors: Zixin Yin, Ling-Hao Chen, Lionel Ni
+Paper ID: 1683
+------------------------------------------------------------
+Title: Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off
+Authors: Seungyong Lee, Jeonggi Kwak
+Paper ID: 1867
+------------------------------------------------------------
+Title: DreamO: A Unified Framework for Image Customization
+Authors: Chong Mou, Yanze Wu, Wenxu Wu
+Paper ID: 1976
+------------------------------------------------------------
+Title: The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion
+Authors: Bang Gong, Luchao Qi, Jiaye Wu
+Paper ID: 2211
+------------------------------------------------------------
+Title: Closed-form Cauchy Coordinates and Their Derivatives for 2D High-order Cages
+Authors: Shibo Liu, Ligang Liu, Xiao-Ming Fu
+Paper ID: 1497
+------------------------------------------------------------
+Title: Aerial Path Planning for Urban Geometry and Texture Co-Capture
+Authors: Weidan Xiong, Bochuan Zeng, Ziyu Hu
+Paper ID: 1260
+------------------------------------------------------------
+Title: Compact shape representation utilizing local surface similarities
+Authors: Albert Garifullin, Nikolay Mayorov, Alexey Budak
+Paper ID: 1471
+------------------------------------------------------------

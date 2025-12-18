@@ -1,0 +1,1808 @@
+[
+  {
+    "id": "papers_1338",
+    "title": "RCTrans: Transparent Object Reconstruction in Natural Scene via Refractive Correspondence Estimation",
+    "session": "3D Reconstruction & Intelligent Geometry",
+    "url": "https://cic.tju.edu.cn/faculty/zhangjiawan/Jiawan_Zhang_files/paper/gaofangzhou2025.pdf"
+  },
+  {
+    "id": "papers_2088",
+    "title": "Topology-Aware Optimization of Gaussian Primitives for Human-Centric Volumetric Videos",
+    "session": "3D Reconstruction & Intelligent Geometry",
+    "url": "http://guochch.github.io/TaoGS/"
+  },
+  {
+    "id": "papers_2078",
+    "title": "Surface-Aware Distilled 3D Semantic Features",
+    "session": "3D Reconstruction & Intelligent Geometry",
+    "url": "https://lukas.uzolas.com/SurfaceAware3DFeatures/"
+  },
+  {
+    "id": "papers_2076",
+    "title": "Lang3D-XL: Language Embedded 3D Gaussians for Large-scale Scenes",
+    "session": "3D Reconstruction & Intelligent Geometry",
+    "url": "https://tau-vailab.github.io/Lang3D-XL/"
+  },
+  {
+    "id": "papers_1315",
+    "title": "PoissonNet: A Local-Global Approach for Learning on Surfaces",
+    "session": "3D Reconstruction & Intelligent Geometry",
+    "url": "https://armanmaesumi.github.io/poissonnet/"
+  },
+  {
+    "id": "papers_1105",
+    "title": "Navigating with Annealing Guidance Scale in Diffusion Space",
+    "session": "Dynamic Generative Video: From Synthesis to Real-Time Editing",
+    "url": "https://arxiv.org/pdf/2506.24108"
+  },
+  {
+    "id": "papers_1125",
+    "title": "Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation",
+    "session": "Dynamic Generative Video: From Synthesis to Real-Time Editing",
+    "url": "https://arxiv.org/pdf/2510.02617"
+  },
+  {
+    "id": "papers_1753",
+    "title": "OmnimatteZero: Fast Training-free Omnimatte with Pre-trained Video Diffusion Models",
+    "session": "Dynamic Generative Video: From Synthesis to Real-Time Editing",
+    "url": "https://dvirsamuel.github.io/omnimattezero.github.io/"
+  },
+  {
+    "id": "papers_2070",
+    "title": "STGlight: Online Indoor Lighting Estimation via Spatio-Temporal Gaussian Fusion",
+    "session": "Dynamic Generative Video: From Synthesis to Real-Time Editing",
+    "url": "https://dl.acm.org/doi/10.1145/3763350"
+  },
+  {
+    "id": "papers_2057",
+    "title": "GenLit: Reformulating Single-Image Relighting as Video Generation",
+    "session": "Dynamic Generative Video: From Synthesis to Real-Time Editing",
+    "url": "https://genlit.is.tue.mpg.de/"
+  },
+  {
+    "id": "papers_2542",
+    "title": "DynVFX: Augmenting Real Videos with Dynamic Content",
+    "session": "Dynamic Generative Video: From Synthesis to Real-Time Editing",
+    "url": "https://dynvfx.github.io/"
+  },
+  {
+    "id": "papers_1079",
+    "title": "Vertex Features for Neural Global Illumination",
+    "session": "Global Illumination & Real-Time Rendering",
+    "url": "https://arxiv.org/pdf/2508.07852"
+  },
+  {
+    "id": "papers_1990",
+    "title": "NeLiF: Neural Lighting Function Generation for Real-Time Indoor Rendering",
+    "session": "Global Illumination & Real-Time Rendering",
+    "url": "https://dl.acm.org/doi/full/10.1145/3757377.3763958"
+  },
+  {
+    "id": "papers_1013",
+    "title": "ReSTIR PG: Path Guiding with Spatiotemporally Resampled Paths",
+    "session": "Global Illumination & Real-Time Rendering",
+    "url": "https://cseweb.ucsd.edu/~ravir/zhengsiga.pdf"
+  },
+  {
+    "id": "papers_1809",
+    "title": "Sample Space Partitioning and Spatiotemporal Resampling for Specular Manifold Sampling",
+    "session": "Global Illumination & Real-Time Rendering",
+    "url": "https://research.nvidia.com/labs/rtr/publication/hong2025partition/hong2025partition_paper.pdf"
+  },
+  {
+    "id": "papers_1083",
+    "title": "Frame-Free Representation of Polarized Light for Resolving Stokes Vector Singularities",
+    "session": "Global Illumination & Real-Time Rendering",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3763276"
+  },
+  {
+    "id": "papers_1638",
+    "title": "Viscous Vortex Dynamics on Surfaces",
+    "session": "High-Performance Simulation Algorithms",
+    "url": "https://cunchengzhu.github.io/project_pages/ViscousVortex2025.html"
+  },
+  {
+    "id": "papers_1733",
+    "title": "Fast Galerkin Multigrid Method for Unstructured Meshes",
+    "session": "High-Performance Simulation Algorithms",
+    "url": "https://dl.acm.org/doi/10.1145/3763327"
+  },
+  {
+    "id": "papers_2069",
+    "title": "A Stack-Free Parallel h-Adaptation Algorithm for Dynamically Balanced Trees on GPUs",
+    "session": "High-Performance Simulation Algorithms",
+    "url": "https://dl.acm.org/doi/10.1145/3763349"
+  },
+  {
+    "id": "papers_2479",
+    "title": "Implicit Position Based Fluids",
+    "session": "High-Performance Simulation Algorithms",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764005"
+  },
+  {
+    "id": "papers_1093",
+    "title": "Simplifying Textured Triangle Meshes in the Wild",
+    "session": "Mesh Processing",
+    "url": "https://arxiv.org/pdf/2409.15458"
+  },
+  {
+    "id": "papers_1207",
+    "title": "PartUV: Part-Based UV Unwrapping of 3D Meshes",
+    "session": "Mesh Processing",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763843"
+  },
+  {
+    "id": "papers_1239",
+    "title": "Solid-Shell Labeling for Discrete Surfaces",
+    "session": "Mesh Processing",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763847"
+  },
+  {
+    "id": "papers_2322",
+    "title": "RibbonSculpt: Voronoi Ball based 3D Sculpting from Sparse VR Ribbons",
+    "session": "Mesh Processing",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763994"
+  },
+  {
+    "id": "papers_1022",
+    "title": "Shape-for-Motion: Precise and Consistent Video Editing With 3D Proxy",
+    "session": "Camera Control and Directed Storytelling in Video Generation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763816"
+  },
+  {
+    "id": "papers_1132",
+    "title": "Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval",
+    "session": "Camera Control and Directed Storytelling in Video Generation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763833"
+  },
+  {
+    "id": "papers_1191",
+    "title": "CamCloneMaster: Enabling Reference-based Camera Control for Video Generation",
+    "session": "Camera Control and Directed Storytelling in Video Generation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763841"
+  },
+  {
+    "id": "papers_1200",
+    "title": "Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation",
+    "session": "Camera Control and Directed Storytelling in Video Generation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763842"
+  },
+  {
+    "id": "papers_1610",
+    "title": "Cut2Next: Generating Next Shot via In-Context Tuning",
+    "session": "Camera Control and Directed Storytelling in Video Generation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763896"
+  },
+  {
+    "id": "papers_2281",
+    "title": "CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion",
+    "session": "Camera Control and Directed Storytelling in Video Generation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763990"
+  },
+  {
+    "id": "papers_1270",
+    "title": "Scattering-Aware Color Calibration for 3D Printers Using a Simple Calibration Target",
+    "session": "Material & Texture Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3763293"
+  },
+  {
+    "id": "papers_1415",
+    "title": "Example-Based Feature Painting on Textures",
+    "session": "Material & Texture Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3763301"
+  },
+  {
+    "id": "papers_1568",
+    "title": "DiffTex: Differentiable Texturing for Architectural Proxy Models",
+    "session": "Material & Texture Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3763312"
+  },
+  {
+    "id": "papers_1768",
+    "title": "Fine-Grained Spatially Varying Material Selection in Images",
+    "session": "Material & Texture Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3763332"
+  },
+  {
+    "id": "papers_1810",
+    "title": "S3 Imagery: Specular Shading from Scratch-Anisotropy",
+    "session": "Material & Texture Modeling",
+    "url": ""
+  },
+  {
+    "id": "papers_1364",
+    "title": "SeqTex: Generate Mesh Textures in Video Sequence",
+    "session": "Material & Texture Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763863"
+  },
+  {
+    "id": "papers_1003",
+    "title": "Precise Gradient Discontinuities in Neural Fields for Subspace Physics",
+    "session": "Neural & Implicit Representations for Geometry and Physics",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763810"
+  },
+  {
+    "id": "papers_1641",
+    "title": "Variational Neural Surfacing of 3D Sketches",
+    "session": "Neural & Implicit Representations for Geometry and Physics",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763900"
+  },
+  {
+    "id": "papers_1755",
+    "title": "NeuVAS: Neural Implicit Surfaces for Variational Shape Modeling",
+    "session": "Neural & Implicit Representations for Geometry and Physics",
+    "url": "https://dl.acm.org/doi/10.1145/3763331"
+  },
+  {
+    "id": "papers_1795",
+    "title": "Neural Kinematic Bases for Fluids",
+    "session": "Neural & Implicit Representations for Geometry and Physics",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763925"
+  },
+  {
+    "id": "papers_2228",
+    "title": "Neural Octahedral Field: Octahedral Prior for Simultaneous Smoothing and Sharp Edge Regularization",
+    "session": "Neural & Implicit Representations for Geometry and Physics",
+    "url": "https://dl.acm.org/doi/10.1145/3763362"
+  },
+  {
+    "id": "papers_1744",
+    "title": "Practical Gaussian Process Implicit Surfaces with Sparse Convolutions",
+    "session": "Neural & Implicit Representations for Geometry and Physics",
+    "url": "https://dl.acm.org/doi/10.1145/3763329"
+  },
+  {
+    "id": "papers_1374",
+    "title": "Generative Head-Mounted Camera Captures for Photorealistic Avatars",
+    "session": "Creating Digital Humans",
+    "url": "https://dl.acm.org/doi/10.1145/3763300"
+  },
+  {
+    "id": "papers_1018",
+    "title": "InfiniHuman: Realistic 3D Human Creation with Precise Control",
+    "session": "Creating Digital Humans",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763815"
+  },
+  {
+    "id": "papers_1586",
+    "title": "HRM^2Avatar: High-Fidelity Real-Time Mobile Avatars from Monocular Phone Scans",
+    "session": "Creating Digital Humans",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763894"
+  },
+  {
+    "id": "papers_2119",
+    "title": "PriorAvatar: Efficient and Robust Avatar Creation from Monocular Video Using Learned Priors",
+    "session": "Creating Digital Humans",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763978"
+  },
+  {
+    "id": "papers_1965",
+    "title": "Constructing Diffusion Avatar with Learnable Embeddings",
+    "session": "Creating Digital Humans",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763953"
+  },
+  {
+    "id": "papers_1178",
+    "title": "HumanLift: Single-Image 3D Human Reconstruction with 3D-Aware Diffusion Priors and Facial Enhancement",
+    "session": "Creating Digital Humans",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763839"
+  },
+  {
+    "id": "papers_1570",
+    "title": "Waste-to-Value: Reutilized Material Maximization for Additive and Subtractive Hybrid Remanufacturing",
+    "session": "Smart Process Planning for Manufacturing",
+    "url": "https://dl.acm.org/doi/10.1145/3763313"
+  },
+  {
+    "id": "papers_2154",
+    "title": "Can Any Model Be Fabricated? Inverse Operation Based Planning for Hybrid Additive–Subtractive Manufacturing",
+    "session": "Smart Process Planning for Manufacturing",
+    "url": "https://dl.acm.org/doi/10.1145/3763355"
+  },
+  {
+    "id": "papers_1590",
+    "title": "Chapper: Carvable Hull-and-Pack for Subtractive Manufacturing",
+    "session": "Smart Process Planning for Manufacturing",
+    "url": "https://dl.acm.org/doi/10.1145/3763314"
+  },
+  {
+    "id": "papers_1426",
+    "title": "MiGumi: Making Tightly Coupled Integral Joints Millable",
+    "session": "Smart Process Planning for Manufacturing",
+    "url": "https://dl.acm.org/doi/10.1145/3763304"
+  },
+  {
+    "id": "papers_2095",
+    "title": "Curve-Based Slicer for Multi-Axis DLP 3D Printing",
+    "session": "Smart Process Planning for Manufacturing",
+    "url": "https://dl.acm.org/doi/10.1145/3763352"
+  },
+  {
+    "id": "papers_2105",
+    "title": "INF-3DP: Implicit Neural Fields for Collision-Free Multi-Axis 3D Printing",
+    "session": "Smart Process Planning for Manufacturing",
+    "url": "https://dl.acm.org/doi/10.1145/3763354"
+  },
+  {
+    "id": "papers_1060",
+    "title": "NeuralPVS: Learned Estimation of Potentially Visible Sets",
+    "session": "Visibility & Real-Time Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763822"
+  },
+  {
+    "id": "papers_1388",
+    "title": "Neural Visibility of Point Sets",
+    "session": "Visibility & Real-Time Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763869"
+  },
+  {
+    "id": "papers_2150",
+    "title": "Potentially Visible Set Generation with the Disocclusion Buffer",
+    "session": "Visibility & Real-Time Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763981"
+  },
+  {
+    "id": "papers_2067",
+    "title": "Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering",
+    "session": "Visibility & Real-Time Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3763348"
+  },
+  {
+    "id": "papers_2231",
+    "title": "Consecutive Frame Extrapolation with Predictive Sparse Shading",
+    "session": "Visibility & Real-Time Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3763363"
+  },
+  {
+    "id": "papers_1133",
+    "title": "A Highly-Efficient Hybrid Simulation System for Flight Controller Design and Evaluation of Unmanned Aerial Vehicles",
+    "session": "Physically Based Simulation & Dynamic Environments",
+    "url": "https://dl.acm.org/doi/10.1145/3763283"
+  },
+  {
+    "id": "papers_1360",
+    "title": "PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image",
+    "session": "Physically Based Simulation & Dynamic Environments",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763862"
+  },
+  {
+    "id": "papers_2447",
+    "title": "FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters",
+    "session": "Physically Based Simulation & Dynamic Environments",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764002"
+  },
+  {
+    "id": "papers_1613",
+    "title": "CFC: Simulating Character-Fluid Coupling using a Two-Level World Model",
+    "session": "Physically Based Simulation & Dynamic Environments",
+    "url": "https://dl.acm.org/doi/10.1145/3763318"
+  },
+  {
+    "id": "papers_2360",
+    "title": "Fast & Stable Control of Coupled Solid-Fluid Dynamic Systems",
+    "session": "Physically Based Simulation & Dynamic Environments",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763997"
+  },
+  {
+    "id": "papers_1535",
+    "title": "Force-Dual Modes: Subspace Design from Stochastic Forces",
+    "session": "Physically Based Simulation & Dynamic Environments",
+    "url": "https://dl.acm.org/doi/10.1145/3763310"
+  },
+  {
+    "id": "papers_2159",
+    "title": "One String to Pull Them All: Fast Assembly of Curved Structures from Flat Auxetic Linkages",
+    "session": "Audio-Driven Facial and Portrait Animation",
+    "url": "https://dl.acm.org/doi/10.1145/3763357"
+  },
+  {
+    "id": "papers_2197",
+    "title": "Discovering Folding Lines for Surface Compression",
+    "session": "Audio-Driven Facial and Portrait Animation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763983"
+  },
+  {
+    "id": "papers_1602",
+    "title": "Reconfigurable Hinged Kirigami Tessellations",
+    "session": "Audio-Driven Facial and Portrait Animation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763895"
+  },
+  {
+    "id": "papers_1636",
+    "title": "Snapping Deployable Toroids for Modular Gridshells",
+    "session": "Audio-Driven Facial and Portrait Animation",
+    "url": "https://dl.acm.org/doi/10.1145/3763808"
+  },
+  {
+    "id": "papers_1302",
+    "title": "Closed-Form Construction of Voronoi Diagrams with Star-Shaped Metrics",
+    "session": "Audio-Driven Facial and Portrait Animation",
+    "url": "https://dl.acm.org/doi/10.1145/3763296"
+  },
+  {
+    "id": "papers_2335",
+    "title": "Star-Shaped Distance Voronoi Diagrams for 3D Metamaterial Design",
+    "session": "Audio-Driven Facial and Portrait Animation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763996"
+  },
+  {
+    "id": "papers_1077",
+    "title": "CameraVDP: Perceptual Display Assessment with Uncertainty Estimation via Camera and Visual Difference Prediction",
+    "session": "Computational Design & Fabricability",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763825"
+  },
+  {
+    "id": "papers_1081",
+    "title": "DiffCamera: Arbitrary Refocusing on Images",
+    "session": "Computational Design & Fabricability",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763827"
+  },
+  {
+    "id": "papers_1422",
+    "title": "Learning to Refocus with Video Diffusion Models",
+    "session": "Computational Design & Fabricability",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763873"
+  },
+  {
+    "id": "papers_1460",
+    "title": "Generating the Past, Present and Future from a Motion-Blurred Image",
+    "session": "Computational Design & Fabricability",
+    "url": "https://dl.acm.org/doi/10.1145/3763306"
+  },
+  {
+    "id": "papers_1250",
+    "title": "Automated Design of Compound Lenses with Discrete-Continuous Optimization",
+    "session": "Computational Design & Fabricability",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763850"
+  },
+  {
+    "id": "papers_1761",
+    "title": "UltraZoom: Generating Gigapixel Images from Regular Photos",
+    "session": "Computational Design & Fabricability",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763919"
+  },
+  {
+    "id": "papers_1824",
+    "title": "Nonlinear Noise2Noise for Efficient Monte Carlo Denoiser Training",
+    "session": "Computational Photography & Cameras",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763931"
+  },
+  {
+    "id": "papers_2326",
+    "title": "Statistical Error Reduction for Monte Carlo Rendering",
+    "session": "Computational Photography & Cameras",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763995"
+  },
+  {
+    "id": "papers_1592",
+    "title": "DSCombiner: Double Shrinkage for Combining Biased and Unbiased Monte Carlo Renderings",
+    "session": "Computational Photography & Cameras",
+    "url": "https://dl.acm.org/doi/10.1145/3763315"
+  },
+  {
+    "id": "papers_1053",
+    "title": "Jackknife Transmittance and MIS Weight Estimation",
+    "session": "Computational Photography & Cameras",
+    "url": "https://dl.acm.org/doi/10.1145/3763273"
+  },
+  {
+    "id": "papers_1797",
+    "title": "Imperfect Image-Space Control Variates for Monte Carlo Rendering",
+    "session": "Computational Photography & Cameras",
+    "url": "https://dl.acm.org/doi/10.1145/3763335"
+  },
+  {
+    "id": "papers_1042",
+    "title": "SZ Sequences: Binary-Constructed $(0, 2^q)$-Sequences",
+    "session": "Computational Photography & Cameras",
+    "url": ""
+  },
+  {
+    "id": "papers_1264",
+    "title": "Audio Driven Real-Time Facial Animation for Social Telepresence",
+    "session": "Sampling, Reconstruction & Variance Reduction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763854"
+  },
+  {
+    "id": "papers_1520",
+    "title": "LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation",
+    "session": "Sampling, Reconstruction & Variance Reduction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763887"
+  },
+  {
+    "id": "papers_1730",
+    "title": "High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation",
+    "session": "Sampling, Reconstruction & Variance Reduction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763914"
+  },
+  {
+    "id": "papers_1860",
+    "title": "Audio-Driven Universal Gaussian Head Avatars",
+    "session": "Sampling, Reconstruction & Variance Reduction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763939"
+  },
+  {
+    "id": "papers_1975",
+    "title": "ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model",
+    "session": "Sampling, Reconstruction & Variance Reduction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763955"
+  },
+  {
+    "id": "papers_2207",
+    "title": "X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio",
+    "session": "Sampling, Reconstruction & Variance Reduction",
+    "url": ""
+  },
+  {
+    "id": "papers_1005",
+    "title": "ShapeGen: Towards High-Quality 3D Shape Synthesis",
+    "session": "Generative 3D Shape Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763812"
+  },
+  {
+    "id": "papers_1032",
+    "title": "Autoregressive Generation of Static and Growing Trees",
+    "session": "Generative 3D Shape Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763818"
+  },
+  {
+    "id": "papers_1412",
+    "title": "OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion",
+    "session": "Generative 3D Shape Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763872"
+  },
+  {
+    "id": "papers_1446",
+    "title": "ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction",
+    "session": "Generative 3D Shape Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763877"
+  },
+  {
+    "id": "papers_1992",
+    "title": "SPGen: Spherical Projection as Consistent and Flexible Representation for Single Image 3D Shape Generation",
+    "session": "Generative 3D Shape Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763959"
+  },
+  {
+    "id": "papers_1719",
+    "title": "DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model",
+    "session": "Image Restoration, Editing & Enhancement",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763913"
+  },
+  {
+    "id": "papers_1848",
+    "title": "HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting",
+    "session": "Image Restoration, Editing & Enhancement",
+    "url": "https://dl.acm.org/doi/10.1145/3763337"
+  },
+  {
+    "id": "papers_2027",
+    "title": "Harnessing Diffusion-Yielded Score Priors for Image Restoration",
+    "session": "Image Restoration, Editing & Enhancement",
+    "url": "https://dl.acm.org/doi/10.1145/3763346"
+  },
+  {
+    "id": "papers_2056",
+    "title": "ELAD: Blind Face Restoration using Expectation-based Likelihood Approximation and Diffusion Prior",
+    "session": "Image Restoration, Editing & Enhancement",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763969"
+  },
+  {
+    "id": "papers_2401",
+    "title": "Self-supervised Underwater Color Restoration via Wavelet-Diffusion Model with Filtered Multi-Scale Feature Distillation",
+    "session": "Image Restoration, Editing & Enhancement",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763999"
+  },
+  {
+    "id": "papers_1252",
+    "title": "Automatic Sampling for Discontinuities in Differentiable Shaders",
+    "session": "Differentiable Rendering & Applications",
+    "url": "https://dl.acm.org/doi/10.1145/3763291"
+  },
+  {
+    "id": "papers_1435",
+    "title": "Differentiable Light Transport with Gaussian Surfels via Adapted Radiosity for Efficient Relighting and Geometry Reconstruction",
+    "session": "Differentiable Rendering & Applications",
+    "url": "https://dl.acm.org/doi/10.1145/3763305"
+  },
+  {
+    "id": "papers_1757",
+    "title": "Spectral Reconstruction with Uncertainty Quantification via Differentiable Rendering and Null-Space Sampling",
+    "session": "Differentiable Rendering & Applications",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763918"
+  },
+  {
+    "id": "papers_1766",
+    "title": "Adaptive Neural Kernels for Gradient-domain Rendering",
+    "session": "Differentiable Rendering & Applications",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763920"
+  },
+  {
+    "id": "papers_1309",
+    "title": "Generalized Unbiased Reconstruction for Gradient-Domain Rendering",
+    "session": "Differentiable Rendering & Applications",
+    "url": "https://dl.acm.org/doi/10.1145/3763297"
+  },
+  {
+    "id": "papers_1073",
+    "title": "Supra-threshold Contrast Perception in Augmented Reality",
+    "session": "Perception and Performance in AR/VR Systems",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763824"
+  },
+  {
+    "id": "papers_2458",
+    "title": "Vertical Binocular Misalignment in AR Impairs Reading Performance",
+    "session": "Perception and Performance in AR/VR Systems",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764003"
+  },
+  {
+    "id": "papers_1287",
+    "title": "Modeling and Exploiting the Time Course of Chromatic Adaptation for Display Power Optimizations in Virtual Reality",
+    "session": "Perception and Performance in AR/VR Systems",
+    "url": "https://dl.acm.org/doi/10.1145/3763294"
+  },
+  {
+    "id": "papers_1173",
+    "title": "Performance Analysis of Catch-Up Eye Movements in Visual Tracking",
+    "session": "Perception and Performance in AR/VR Systems",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763837"
+  },
+  {
+    "id": "papers_2156",
+    "title": "Glare Pattern Depiction: High-Fidelity Physical Computation and Physiologically-Inspired Visual Response",
+    "session": "Perception and Performance in AR/VR Systems",
+    "url": "https://dl.acm.org/doi/10.1145/3763356"
+  },
+  {
+    "id": "papers_1905",
+    "title": "MILO: A Lightweight Perceptual Quality Metric for Image and Latent-Space Optimization",
+    "session": "Perception and Performance in AR/VR Systems",
+    "url": "https://dl.acm.org/doi/10.1145/3763340"
+  },
+  {
+    "id": "papers_1094",
+    "title": "TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction",
+    "session": "4D Gaussian Splatting for Dynamic Scene Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763829"
+  },
+  {
+    "id": "papers_1336",
+    "title": "Clustered Error Correction with Grouped 4D Gaussian Splatting",
+    "session": "4D Gaussian Splatting for Dynamic Scene Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763858"
+  },
+  {
+    "id": "papers_1616",
+    "title": "Anchored 4D Gaussian Splatting for Dynamic Novel View Synthesis",
+    "session": "4D Gaussian Splatting for Dynamic Scene Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763898"
+  },
+  {
+    "id": "papers_1687",
+    "title": "Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video",
+    "session": "4D Gaussian Splatting for Dynamic Scene Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763910"
+  },
+  {
+    "id": "papers_1682",
+    "title": "4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture",
+    "session": "4D Gaussian Splatting for Dynamic Scene Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763908"
+  },
+  {
+    "id": "papers_1986",
+    "title": "Split4D: Decomposed 4D Scene Reconstruction Without Video Segmentation",
+    "session": "4D Gaussian Splatting for Dynamic Scene Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3763343"
+  },
+  {
+    "id": "papers_1028",
+    "title": "GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling",
+    "session": "Garment & Cloth Modeling, Simulation and Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3763271"
+  },
+  {
+    "id": "papers_2192",
+    "title": "Realistic Cloth Rendering with a Ray-Wave Hybrid Shading Model",
+    "session": "Garment & Cloth Modeling, Simulation and Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3763359"
+  },
+  {
+    "id": "papers_1386",
+    "title": "Progressive Outfit Assembly and Instantaneous Pose Transfer",
+    "session": "Garment & Cloth Modeling, Simulation and Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763868"
+  },
+  {
+    "id": "papers_1533",
+    "title": "Neighbor-Aware Data-Driven Relaxation of Stitch Mesh Models for Knits",
+    "session": "Garment & Cloth Modeling, Simulation and Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763890"
+  },
+  {
+    "id": "papers_2212",
+    "title": "A Nonconforming Formulation of Cloth",
+    "session": "Garment & Cloth Modeling, Simulation and Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763989"
+  },
+  {
+    "id": "papers_1453",
+    "title": "EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly",
+    "session": "3D Reconstruction & Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763878"
+  },
+  {
+    "id": "papers_1849",
+    "title": "Inverse Radiative Transport for Infrared Scenes with Gaussian Primitives",
+    "session": "3D Reconstruction & Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763938"
+  },
+  {
+    "id": "papers_1375",
+    "title": "Efficient Object Reconstruction with Differentiable Area Light Shading",
+    "session": "3D Reconstruction & Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763865"
+  },
+  {
+    "id": "papers_1611",
+    "title": "WATER: Watertight Tessellation for Real-Time Pixel-Accurate Rendering of Large-Scale Surfaces",
+    "session": "3D Reconstruction & Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3763317"
+  },
+  {
+    "id": "papers_1827",
+    "title": "GigaSLAM: Large-Scale Monocular SLAM with Hierarchical Gaussian Splats",
+    "session": "3D Reconstruction & Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763932"
+  },
+  {
+    "id": "papers_2227",
+    "title": "Artifact-Resilient Real-Time Holography",
+    "session": "3D Reconstruction & Rendering",
+    "url": "https://dl.acm.org/doi/10.1145/3763361"
+  },
+  {
+    "id": "papers_2018",
+    "title": "Numerical Homogenization of Sand from Grain-level Simulations",
+    "session": "Animation, Simulation & Deformation",
+    "url": "https://dl.acm.org/doi/10.1145/3763344"
+  },
+  {
+    "id": "papers_2138",
+    "title": "Improving Curl Noise",
+    "session": "Animation, Simulation & Deformation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763980"
+  },
+  {
+    "id": "papers_2309",
+    "title": "Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video",
+    "session": "Animation, Simulation & Deformation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763992"
+  },
+  {
+    "id": "papers_1996",
+    "title": "QMF-Blend: Quantized Matrix Factorization for Efficient Blendshape Compression",
+    "session": "Animation, Simulation & Deformation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763961"
+  },
+  {
+    "id": "papers_2559",
+    "title": "AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation",
+    "session": "Animation, Simulation & Deformation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764009"
+  },
+  {
+    "id": "papers_1537",
+    "title": "Shape-aware Inertial Poser: Motion Tracking for Humans with Diverse Shapes Using Sparse Inertial Sensors",
+    "session": "Animation, Simulation & Deformation",
+    "url": "https://dl.acm.org/doi/10.1145/3763311"
+  },
+  {
+    "id": "papers_1479",
+    "title": "Low-Rank Adaptation of Neural Fields",
+    "session": "Neural Fields and Surface Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763882"
+  },
+  {
+    "id": "papers_1650",
+    "title": "Spectral Prefiltering of Neural Fields",
+    "session": "Neural Fields and Surface Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763901"
+  },
+  {
+    "id": "papers_1740",
+    "title": "Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes",
+    "session": "Neural Fields and Surface Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3763328"
+  },
+  {
+    "id": "papers_1830",
+    "title": "SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction",
+    "session": "Neural Fields and Surface Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763933"
+  },
+  {
+    "id": "papers_1884",
+    "title": "MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction",
+    "session": "Neural Fields and Surface Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3763339"
+  },
+  {
+    "id": "papers_2168",
+    "title": "RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer",
+    "session": "Neural Fields and Surface Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763982"
+  },
+  {
+    "id": "papers_1654",
+    "title": "Capturing Non-Linear Human Perspective in Line Drawings",
+    "session": "Vector Graphics & Sketches",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763902"
+  },
+  {
+    "id": "papers_1086",
+    "title": "AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion",
+    "session": "Vector Graphics & Sketches",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763828"
+  },
+  {
+    "id": "papers_1500",
+    "title": "KISSColor: Kinetic and Intuitive Stroke Stretching for Vector Drawing Colorization",
+    "session": "Vector Graphics & Sketches",
+    "url": "https://dl.acm.org/doi/10.1145/3763307"
+  },
+  {
+    "id": "papers_2008",
+    "title": "LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization",
+    "session": "Vector Graphics & Sketches",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763964"
+  },
+  {
+    "id": "papers_2019",
+    "title": "Neural Image abstraction using long smoothing B-splines",
+    "session": "Vector Graphics & Sketches",
+    "url": "https://dl.acm.org/doi/10.1145/3763345"
+  },
+  {
+    "id": "papers_1793",
+    "title": "UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images",
+    "session": "Vector Graphics & Sketches",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763923"
+  },
+  {
+    "id": "papers_1016",
+    "title": "AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry",
+    "session": "Intelligent CAD: B-Reps, NURBs & Splines",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763814"
+  },
+  {
+    "id": "papers_1666",
+    "title": "BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch",
+    "session": "Intelligent CAD: B-Reps, NURBs & Splines",
+    "url": "https://dl.acm.org/doi/10.1145/3763323"
+  },
+  {
+    "id": "papers_1147",
+    "title": "NURBS-Based Grid Shell Form Finding on Domains with Topologically Arbitrary Boundaries",
+    "session": "Intelligent CAD: B-Reps, NURBs & Splines",
+    "url": "https://dl.acm.org/doi/10.1145/3763284"
+  },
+  {
+    "id": "papers_1507",
+    "title": "Overlap Region Extraction of Two NURBS Surfaces",
+    "session": "Intelligent CAD: B-Reps, NURBs & Splines",
+    "url": "https://dl.acm.org/doi/10.1145/3763308"
+  },
+  {
+    "id": "papers_1596",
+    "title": "$G^2$ Interpolating Spline with Local Maximum Curvature",
+    "session": "Intelligent CAD: B-Reps, NURBs & Splines",
+    "url": "https://dl.acm.org/doi/10.1145/3763316"
+  },
+  {
+    "id": "papers_1539",
+    "title": "Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization",
+    "session": "Intelligent CAD: B-Reps, NURBs & Splines",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763891"
+  },
+  {
+    "id": "papers_2420",
+    "title": "Curvature Enthusiasm: Correspondence-Free Interpolation and Matching of Articulated 3D Shapes using Compressed Normal Cycles",
+    "session": "It's All About the Motion",
+    "url": "https://dl.acm.org/doi/10.1145/3763366"
+  },
+  {
+    "id": "papers_1934",
+    "title": "Motion In-Betweening for Densely Interacting Characters",
+    "session": "It's All About the Motion",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763950"
+  },
+  {
+    "id": "papers_1632",
+    "title": "Control Operators for Interactive Character Animation",
+    "session": "It's All About the Motion",
+    "url": "https://dl.acm.org/doi/10.1145/3763319"
+  },
+  {
+    "id": "papers_1784",
+    "title": "Environment-aware Motion Matching",
+    "session": "It's All About the Motion",
+    "url": "https://dl.acm.org/doi/10.1145/3763334"
+  },
+  {
+    "id": "papers_1029",
+    "title": "StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data",
+    "session": "It's All About the Motion",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763817"
+  },
+  {
+    "id": "papers_2494",
+    "title": "Learning to Ball: Composing Policies for Long-Horizon Basketball Moves",
+    "session": "It's All About the Motion",
+    "url": "https://dl.acm.org/doi/10.1145/3763367"
+  },
+  {
+    "id": "papers_1074",
+    "title": "Computational Modeling and Design of Capacitive Stretch Sensors",
+    "session": "Compositional and Layout-Guided Image Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3763274"
+  },
+  {
+    "id": "papers_1082",
+    "title": "Designing and Fabricating Color BRDFs with Differentiable Wave Optics",
+    "session": "Compositional and Layout-Guided Image Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3763275"
+  },
+  {
+    "id": "papers_1187",
+    "title": "Acoustic Reliefs",
+    "session": "Compositional and Layout-Guided Image Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3763287"
+  },
+  {
+    "id": "papers_1484",
+    "title": "PhysiOpt: Physics-Driven Shape Optimization for 3D Generative Models",
+    "session": "Compositional and Layout-Guided Image Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763884"
+  },
+  {
+    "id": "papers_2171",
+    "title": "Large-Area Fabrication-aware Computational Diffractive Optics",
+    "session": "Compositional and Layout-Guided Image Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3763358"
+  },
+  {
+    "id": "papers_1381",
+    "title": "Object-level Visual Prompts for Compositional Image Generation",
+    "session": "Computational Design & Geometry",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763867"
+  },
+  {
+    "id": "papers_2203",
+    "title": "ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation",
+    "session": "Computational Design & Geometry",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763984"
+  },
+  {
+    "id": "papers_1918",
+    "title": "PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples",
+    "session": "Computational Design & Geometry",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763947"
+  },
+  {
+    "id": "papers_1885",
+    "title": "AGSwap: Overcoming Category Boundaries in Object Fusion via Adaptive Group Swapping",
+    "session": "Computational Design & Geometry",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763944"
+  },
+  {
+    "id": "papers_1917",
+    "title": "MALeR: Improving Compositional Fidelity in Layout-Guided Generation",
+    "session": "Computational Design & Geometry",
+    "url": "https://dl.acm.org/doi/10.1145/3763341"
+  },
+  {
+    "id": "papers_1299",
+    "title": "Auto Hair Card Extraction for Smooth Hair with Differentiable Rendering",
+    "session": "Hair & Faces",
+    "url": "https://dl.acm.org/doi/10.1145/3763295"
+  },
+  {
+    "id": "papers_1368",
+    "title": "Strands2Cards: Automatic Generation of Hair Cards from Strands",
+    "session": "Hair & Faces",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763864"
+  },
+  {
+    "id": "papers_2365",
+    "title": "Shaping Strands with Neural Style Transfer",
+    "session": "Hair & Faces",
+    "url": "https://dl.acm.org/doi/10.1145/3763365"
+  },
+  {
+    "id": "papers_1711",
+    "title": "CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling",
+    "session": "Hair & Faces",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763912"
+  },
+  {
+    "id": "papers_1879",
+    "title": "Single-Shot Facial Capture using Polarized RGB Sinusoidal Illumination",
+    "session": "Hair & Faces",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763942"
+  },
+  {
+    "id": "papers_2005",
+    "title": "Single Image 3D Portrait Relighting with Generative Priors",
+    "session": "Hair & Faces",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763962"
+  },
+  {
+    "id": "papers_1405",
+    "title": "VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models",
+    "session": "Differentiable Physics and Fabrication-Aware Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763871"
+  },
+  {
+    "id": "papers_1416",
+    "title": "SS4D: Native 4D Generative Model via Structured Spacetime Latents",
+    "session": "Differentiable Physics and Fabrication-Aware Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3763302"
+  },
+  {
+    "id": "papers_1445",
+    "title": "Generating 360° Video is What You Need For a 3D Scene",
+    "session": "Differentiable Physics and Fabrication-Aware Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763876"
+  },
+  {
+    "id": "papers_1483",
+    "title": "PanoDreamer: Optimization-Based Single Image to 360 3D Scene With Diffusion",
+    "session": "Differentiable Physics and Fabrication-Aware Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763883"
+  },
+  {
+    "id": "papers_1915",
+    "title": "WorldExplorer: Towards Generating Fully Navigable 3D Scenes",
+    "session": "Differentiable Physics and Fabrication-Aware Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763946"
+  },
+  {
+    "id": "papers_1747",
+    "title": "Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation",
+    "session": "Differentiable Physics and Fabrication-Aware Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3763330"
+  },
+  {
+    "id": "papers_1469",
+    "title": "Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents",
+    "session": "Generative Scenes & Panoramas",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763879"
+  },
+  {
+    "id": "papers_1244",
+    "title": "How Does a Virtual Agent Decide Where to Look? Symbolic Cognitive Reasoning for Embodied Head Rotation",
+    "session": "Generative Scenes & Panoramas",
+    "url": ""
+  },
+  {
+    "id": "papers_2382",
+    "title": "Echo: Enhancing Conversational Behavior Generation via Hierarchical Semantic Comprehension with Large Language Models",
+    "session": "Generative Scenes & Panoramas",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763998"
+  },
+  {
+    "id": "papers_1732",
+    "title": "SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis",
+    "session": "Generative Scenes & Panoramas",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763915"
+  },
+  {
+    "id": "papers_2031",
+    "title": "Unifying Latent Action and Latent State Pre-training for Policy Learning from Videos",
+    "session": "Generative Scenes & Panoramas",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763966"
+  },
+  {
+    "id": "papers_2493",
+    "title": "JoruriPuppet: Learning Tempo-Changing Mechanisms Beyond the Beat for Music-to-Motion Generation with Expressive Metrics",
+    "session": "Generative Scenes & Panoramas",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764006"
+  },
+  {
+    "id": "papers_1119",
+    "title": "BSP-OT: Sparse transport plans between discrete measures in loglinear time",
+    "session": "Human & Robot Animation & Behavior",
+    "url": "https://dl.acm.org/doi/10.1145/3763281"
+  },
+  {
+    "id": "papers_2099",
+    "title": "Efficient and Scalable Spatial Regularization of Optimal Transport",
+    "session": "Human & Robot Animation & Behavior",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763976"
+  },
+  {
+    "id": "papers_1319",
+    "title": "Medial Sphere Preconditioning for Knot Untangling and Volume-Filling Curves",
+    "session": "Human & Robot Animation & Behavior",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763856"
+  },
+  {
+    "id": "papers_1361",
+    "title": "CrossGen: Learning and Generating Cross Fields for Quad Meshing",
+    "session": "Human & Robot Animation & Behavior",
+    "url": "https://dl.acm.org/doi/10.1145/3763299"
+  },
+  {
+    "id": "papers_2499",
+    "title": "Sums of Wedges: Conforming Weighted Delaunay Triangulations are Polynomial in Fixed Dimension",
+    "session": "Human & Robot Animation & Behavior",
+    "url": "https://dl.acm.org/doi/10.1145/3763368"
+  },
+  {
+    "id": "papers_2224",
+    "title": "Lifted Surfacing of Generalized Sweep Volumes",
+    "session": "Human & Robot Animation & Behavior",
+    "url": "https://dl.acm.org/doi/10.1145/3763360"
+  },
+  {
+    "id": "papers_1168",
+    "title": "PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos",
+    "session": "4D & Dynamic Scene Generation and Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763836"
+  },
+  {
+    "id": "papers_1841",
+    "title": "Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture",
+    "session": "4D & Dynamic Scene Generation and Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3763336"
+  },
+  {
+    "id": "papers_1545",
+    "title": "GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes",
+    "session": "4D & Dynamic Scene Generation and Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763892"
+  },
+  {
+    "id": "papers_2405",
+    "title": "Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering",
+    "session": "4D & Dynamic Scene Generation and Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764000"
+  },
+  {
+    "id": "papers_1532",
+    "title": "MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars",
+    "session": "4D & Dynamic Scene Generation and Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763889"
+  },
+  {
+    "id": "papers_1837",
+    "title": "MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis",
+    "session": "4D & Dynamic Scene Generation and Reconstruction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763935"
+  },
+  {
+    "id": "papers_1176",
+    "title": "Jump Restore Light Transport",
+    "session": "Advanced Light Transport & PDE Solvers",
+    "url": "https://dl.acm.org/doi/10.1145/3763286"
+  },
+  {
+    "id": "papers_1648",
+    "title": "Gaussian Integral Linear Operators for Precomputed Graphics",
+    "session": "Advanced Light Transport & PDE Solvers",
+    "url": "https://dl.acm.org/doi/10.1145/3763321"
+  },
+  {
+    "id": "papers_1659",
+    "title": "Harmonic Caching for Walk on Spheres",
+    "session": "Advanced Light Transport & PDE Solvers",
+    "url": "https://dl.acm.org/doi/10.1145/3763322"
+  },
+  {
+    "id": "papers_1782",
+    "title": "Robust Derivative Estimation with Walk on Stars",
+    "session": "Advanced Light Transport & PDE Solvers",
+    "url": "https://dl.acm.org/doi/10.1145/3763333"
+  },
+  {
+    "id": "papers_1258",
+    "title": "Off-Centered WoS-Type Solvers with Statistical Weighting",
+    "session": "Advanced Light Transport & PDE Solvers",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763852"
+  },
+  {
+    "id": "papers_1656",
+    "title": "An Adjoint Method for Differentiable Fluid Simulation on Flow Maps",
+    "session": "Advanced Light Transport & PDE Solvers",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763903"
+  },
+  {
+    "id": "papers_2317",
+    "title": "AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting",
+    "session": "Efficient and Robust Algorithms for Geometric Computing",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763993"
+  },
+  {
+    "id": "papers_2108",
+    "title": "Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images",
+    "session": "Efficient and Robust Algorithms for Geometric Computing",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763977"
+  },
+  {
+    "id": "papers_2307",
+    "title": "MODepth: Benchmarking Mobile Multi-frame Monocular Depth Estimation with Optical Image Stabilization",
+    "session": "Efficient and Robust Algorithms for Geometric Computing",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763991"
+  },
+  {
+    "id": "papers_1116",
+    "title": "From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters",
+    "session": "3D Reconstruction & View Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3763280"
+  },
+  {
+    "id": "papers_1307",
+    "title": "Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction",
+    "session": "3D Reconstruction & View Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763855"
+  },
+  {
+    "id": "papers_1495",
+    "title": "AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models",
+    "session": "3D Reconstruction & View Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763885"
+  },
+  {
+    "id": "papers_1745",
+    "title": "Animus3D: Text-driven 3D Animation via Motion Score Distillation",
+    "session": "3D Reconstruction & View Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763916"
+  },
+  {
+    "id": "papers_1951",
+    "title": "X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents",
+    "session": "3D Reconstruction & View Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763952"
+  },
+  {
+    "id": "papers_2503",
+    "title": "FairyGen: Storied Cartoon Video from a Single Child-Drawn Character",
+    "session": "3D Reconstruction & View Synthesis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764007"
+  },
+  {
+    "id": "papers_1120",
+    "title": "Evaluating and Sampling Glinty NDFs in Constant Time",
+    "session": "Animating Images, Sketches and Text",
+    "url": "https://dl.acm.org/doi/10.1145/3763282"
+  },
+  {
+    "id": "papers_1626",
+    "title": "3D SMoE Splatting for Edge-aware Realtime Radiance Field Rendering",
+    "session": "Animating Images, Sketches and Text",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763899"
+  },
+  {
+    "id": "papers_1712",
+    "title": "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views",
+    "session": "Animating Images, Sketches and Text",
+    "url": "https://dl.acm.org/doi/10.1145/3763326"
+  },
+  {
+    "id": "papers_1253",
+    "title": "PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems",
+    "session": "Animating Images, Sketches and Text",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763851"
+  },
+  {
+    "id": "papers_2051",
+    "title": "Sparse Cache Updates for Scalable Distributed Effect-Based Rendering",
+    "session": "Animating Images, Sketches and Text",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763968"
+  },
+  {
+    "id": "papers_2009",
+    "title": "StereoFG: Generating Stereo Frames from Centered Feature Stream",
+    "session": "Animating Images, Sketches and Text",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763965"
+  },
+  {
+    "id": "papers_2102",
+    "title": "Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation",
+    "session": "Real-Time Rendering & System Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3763353"
+  },
+  {
+    "id": "papers_1820",
+    "title": "Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search",
+    "session": "Real-Time Rendering & System Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763930"
+  },
+  {
+    "id": "papers_1789",
+    "title": "Hierarchical Neural Semantic Representation for 3D Semantic Correspondence",
+    "session": "Real-Time Rendering & System Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763921"
+  },
+  {
+    "id": "papers_1817",
+    "title": "StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance",
+    "session": "Real-Time Rendering & System Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763929"
+  },
+  {
+    "id": "papers_1881",
+    "title": "Fuse3D: Generating 3D Assets Controlled by Multi-Image Fusion",
+    "session": "Real-Time Rendering & System Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763943"
+  },
+  {
+    "id": "papers_1660",
+    "title": "In-2-4D: Inbetweening from Two Single-View Images to 4D Generation",
+    "session": "Real-Time Rendering & System Optimization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763904"
+  },
+  {
+    "id": "papers_1096",
+    "title": "Fovea Stacking: Imaging with Dynamic Localized Aberration Correction",
+    "session": "Cameras, Sensors, and Acquisition",
+    "url": "https://dl.acm.org/doi/10.1145/3763278"
+  },
+  {
+    "id": "papers_1197",
+    "title": "Underwater Optical Backscatter Communications using Acousto-Optic Beam Steering",
+    "session": "Cameras, Sensors, and Acquisition",
+    "url": "https://dl.acm.org/doi/10.1145/3763289"
+  },
+  {
+    "id": "papers_1890",
+    "title": "Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light",
+    "session": "Cameras, Sensors, and Acquisition",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763945"
+  },
+  {
+    "id": "papers_1794",
+    "title": "Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding",
+    "session": "Cameras, Sensors, and Acquisition",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763924"
+  },
+  {
+    "id": "papers_1688",
+    "title": "Transient LASSO: Transient Large-Scale Scene Reconstruction",
+    "session": "Cameras, Sensors, and Acquisition",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763911"
+  },
+  {
+    "id": "papers_2209",
+    "title": "LookUp3D: Data-Driven 3D Scanning",
+    "session": "Cameras, Sensors, and Acquisition",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763986"
+  },
+  {
+    "id": "papers_1004",
+    "title": "Motion2Motion: Cross-topology Motion Retargeting with Sparse Correspondence",
+    "session": "Generative 3D Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763811"
+  },
+  {
+    "id": "papers_2085",
+    "title": "Ultrafast and Controllable Online Motion Retargeting for Game Scenarios",
+    "session": "Generative 3D Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3763351"
+  },
+  {
+    "id": "papers_1529",
+    "title": "SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes",
+    "session": "Generative 3D Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3763309"
+  },
+  {
+    "id": "papers_1949",
+    "title": "PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction",
+    "session": "Generative 3D Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763951"
+  },
+  {
+    "id": "papers_1425",
+    "title": "Generating Detailed Character Motion from Blocking Poses",
+    "session": "Generative 3D Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763874"
+  },
+  {
+    "id": "papers_1834",
+    "title": "MaskedManipulator: Versatile Whole-Body Manipulation",
+    "session": "Generative 3D Modeling",
+    "url": ""
+  },
+  {
+    "id": "papers_1209",
+    "title": "FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion",
+    "session": "Motion Transfer & Control",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763845"
+  },
+  {
+    "id": "papers_1551",
+    "title": "Generating Objects with Part-Articulation from a Single Image",
+    "session": "Motion Transfer & Control",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763893"
+  },
+  {
+    "id": "papers_1208",
+    "title": "LARM: A Large Articulated Object Reconstruction Model",
+    "session": "Motion Transfer & Control",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763844"
+  },
+  {
+    "id": "papers_1790",
+    "title": "ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents",
+    "session": "Motion Transfer & Control",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763922"
+  },
+  {
+    "id": "papers_2073",
+    "title": "Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion",
+    "session": "Motion Transfer & Control",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763972"
+  },
+  {
+    "id": "papers_1332",
+    "title": "LLM-Primitives: Large Language Model for 3D Reconstruction with Primitives",
+    "session": "Motion Transfer & Control",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763857"
+  },
+  {
+    "id": "papers_1424",
+    "title": "ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation",
+    "session": "Advanced Fluid and Multiphase Simulation",
+    "url": "https://dl.acm.org/doi/10.1145/3763303"
+  },
+  {
+    "id": "papers_1676",
+    "title": "Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models",
+    "session": "Advanced Fluid and Multiphase Simulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763906"
+  },
+  {
+    "id": "papers_1961",
+    "title": "PractiLight: Practical Light Control Using Foundational Diffusion Models",
+    "session": "Advanced Fluid and Multiphase Simulation",
+    "url": "https://dl.acm.org/doi/10.1145/3763342"
+  },
+  {
+    "id": "papers_2210",
+    "title": "Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA",
+    "session": "Advanced Fluid and Multiphase Simulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763987"
+  },
+  {
+    "id": "papers_1001",
+    "title": "Diffusion-Guided Relighting for Single-Image SVBRDF Estimation",
+    "session": "Material & Reflectance Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763809"
+  },
+  {
+    "id": "papers_1674",
+    "title": "EBREnv: SVBRDF Estimation in Uncontrolled Environment Lighting via Exemplar-Based Representation",
+    "session": "Material & Reflectance Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763905"
+  },
+  {
+    "id": "papers_1689",
+    "title": "Sparse SVBRDF Acquisition via Importance-Aware Illumination Multiplexing",
+    "session": "Material & Reflectance Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3763324"
+  },
+  {
+    "id": "papers_1240",
+    "title": "Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images",
+    "session": "Material & Reflectance Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763848"
+  },
+  {
+    "id": "papers_1843",
+    "title": "AniTex: Light-Geometry Consistent PBR Material Generation for Animatable Objects",
+    "session": "Material & Reflectance Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763936"
+  },
+  {
+    "id": "papers_1261",
+    "title": "Hyperspectral Polarimetric BRDFs of Real-world Materials",
+    "session": "Material & Reflectance Modeling",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763853"
+  },
+  {
+    "id": "papers_1103",
+    "title": "The Granule-In-Cell Method for Simulating Sand--Water Mixtures",
+    "session": "Objects in Parts & Articulation",
+    "url": "https://dl.acm.org/doi/10.1145/3763279"
+  },
+  {
+    "id": "papers_1192",
+    "title": "Kinetic Free-Surface Flows and Foams with Sharp Interfaces",
+    "session": "Objects in Parts & Articulation",
+    "url": "https://dl.acm.org/doi/10.1145/3763288"
+  },
+  {
+    "id": "papers_1701",
+    "title": "Implicit Incompressible Porous Flow using SPH",
+    "session": "Objects in Parts & Articulation",
+    "url": "https://dl.acm.org/doi/10.1145/3763325"
+  },
+  {
+    "id": "papers_1850",
+    "title": "Fire-X: Extinguishing Fire with Stoichiometric Heat Release",
+    "session": "Objects in Parts & Articulation",
+    "url": "https://dl.acm.org/doi/10.1145/3763338"
+  },
+  {
+    "id": "papers_1993",
+    "title": "Multiphase Particle-Based Simulation of Poro-Elasto-Capillary Effects",
+    "session": "Objects in Parts & Articulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763960"
+  },
+  {
+    "id": "papers_2284",
+    "title": "Wavelet Fluids",
+    "session": "Objects in Parts & Articulation",
+    "url": "https://dl.acm.org/doi/10.1145/3763364"
+  },
+  {
+    "id": "papers_1026",
+    "title": "RL-ACD: Reinforcement Learning-based Approximate Convex Decomposition",
+    "session": "Text-to-Image & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3763270"
+  },
+  {
+    "id": "papers_1047",
+    "title": "ASIA: Adaptive 3D Segmentation using Few Image Annotations",
+    "session": "Text-to-Image & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763821"
+  },
+  {
+    "id": "papers_1146",
+    "title": "Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes",
+    "session": "Text-to-Image & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763835"
+  },
+  {
+    "id": "papers_1188",
+    "title": "MATStruct: High-quality Medial Mesh Computation via Structure-aware Variational Optimization",
+    "session": "Text-to-Image & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763840"
+  },
+  {
+    "id": "papers_1131",
+    "title": "Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range Camera Trajectories using Spacetime Octrees",
+    "session": "Text-to-Image & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763832"
+  },
+  {
+    "id": "papers_2466",
+    "title": "Design for Descent: What Makes a Shape Grammar Easy to Optimize?",
+    "session": "Text-to-Image & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764004"
+  },
+  {
+    "id": "papers_1228",
+    "title": "One-shot Embroidery Customization via Contrastive LoRA Modulation",
+    "session": "Expressive and Structured Gaussian Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3763290"
+  },
+  {
+    "id": "papers_1391",
+    "title": "Teamwork: Collaborative Diffusion with Low-rank Coordination and Adaptation",
+    "session": "Expressive and Structured Gaussian Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763870"
+  },
+  {
+    "id": "papers_1525",
+    "title": "Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Volumetric Performance Captures",
+    "session": "Expressive and Structured Gaussian Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763888"
+  },
+  {
+    "id": "papers_1925",
+    "title": "Proteus-ID: ID-Consistent and Motion-Coherent Video Customization",
+    "session": "Expressive and Structured Gaussian Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763949"
+  },
+  {
+    "id": "papers_2007",
+    "title": "DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning",
+    "session": "Expressive and Structured Gaussian Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763963"
+  },
+  {
+    "id": "papers_2123",
+    "title": "HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling",
+    "session": "Expressive and Structured Gaussian Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763979"
+  },
+  {
+    "id": "papers_1801",
+    "title": "Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting",
+    "session": "Generative Synthesis, Editing & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763926"
+  },
+  {
+    "id": "papers_1846",
+    "title": "Rigidity-Aware 3D Gaussian Deformation from a Single Image",
+    "session": "Generative Synthesis, Editing & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763937"
+  },
+  {
+    "id": "papers_1988",
+    "title": "Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction",
+    "session": "Generative Synthesis, Editing & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763957"
+  },
+  {
+    "id": "papers_2060",
+    "title": "JumpingGS: Level-jump 3D Gaussian Representation for Delicate Textures in Aerial Large-scale Scene Rendering",
+    "session": "Generative Synthesis, Editing & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3763347"
+  },
+  {
+    "id": "papers_2424",
+    "title": "TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores",
+    "session": "Generative Synthesis, Editing & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3764001"
+  },
+  {
+    "id": "papers_1347",
+    "title": "DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting",
+    "session": "Generative Synthesis, Editing & Customization",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763860"
+  },
+  {
+    "id": "papers_1036",
+    "title": "Physics-Based Motion Imitation with Adversarial Differential Discriminators",
+    "session": "Human Motion Synthesis & Interaction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763819"
+  },
+  {
+    "id": "papers_1923",
+    "title": "Learning Human Motion with Temporally Conditional Mamba",
+    "session": "Human Motion Synthesis & Interaction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763948"
+  },
+  {
+    "id": "papers_1066",
+    "title": "SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization",
+    "session": "Human Motion Synthesis & Interaction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763823"
+  },
+  {
+    "id": "papers_1970",
+    "title": "Uni-Inter Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts",
+    "session": "Human Motion Synthesis & Interaction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763954"
+  },
+  {
+    "id": "papers_1359",
+    "title": "HOMA: Towards Generic Human-Object Interaction in Multimodal Driven Human Animation with Weak Conditions",
+    "session": "Human Motion Synthesis & Interaction",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763861"
+  },
+  {
+    "id": "papers_1497",
+    "title": "Closed-form Cauchy Coordinates and Their Derivatives for 2D High-order Cages",
+    "session": "Shape Abstraction and Structural Analysis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763886"
+  },
+  {
+    "id": "papers_1260",
+    "title": "Aerial Path Planning for Urban Geometry and Texture Co-Capture",
+    "session": "Shape Abstraction and Structural Analysis",
+    "url": "https://dl.acm.org/doi/10.1145/3763292"
+  },
+  {
+    "id": "papers_1471",
+    "title": "Compact shape representation utilizing local surface similarities",
+    "session": "Shape Abstraction and Structural Analysis",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763880"
+  },
+  {
+    "id": "papers_1039",
+    "title": "In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation",
+    "session": "Advanced Representations and Rendering for 3D Scenes",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763820"
+  },
+  {
+    "id": "papers_1615",
+    "title": "BlobCtrl: Taming Controllable Blob for Element-level Image Editing",
+    "session": "Advanced Representations and Rendering for 3D Scenes",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763897"
+  },
+  {
+    "id": "papers_1683",
+    "title": "ConsistEdit: Highly Consistent and Precise Training-free Visual Editing",
+    "session": "Advanced Representations and Rendering for 3D Scenes",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763909"
+  },
+  {
+    "id": "papers_1867",
+    "title": "Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off",
+    "session": "Advanced Representations and Rendering for 3D Scenes",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763940"
+  },
+  {
+    "id": "papers_1976",
+    "title": "DreamO: A Unified Framework for Image Customization",
+    "session": "Advanced Representations and Rendering for 3D Scenes",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763956"
+  },
+  {
+    "id": "papers_2211",
+    "title": "The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion",
+    "session": "Advanced Representations and Rendering for 3D Scenes",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763988"
+  },
+  {
+    "id": "papers_1174",
+    "title": "LVT: Large-Scale Scene Reconstruction via Local View Transformers",
+    "session": "Diffusion-Based Image Editing & Manipulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763838"
+  },
+  {
+    "id": "papers_1379",
+    "title": "CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians",
+    "session": "Diffusion-Based Image Editing & Manipulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763866"
+  },
+  {
+    "id": "papers_2032",
+    "title": "GSWT: Gaussian Splatting Wang Tiles",
+    "session": "Diffusion-Based Image Editing & Manipulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763967"
+  },
+  {
+    "id": "papers_1679",
+    "title": "Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy",
+    "session": "Diffusion-Based Image Editing & Manipulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763907"
+  },
+  {
+    "id": "papers_1217",
+    "title": "A compact stochastic representation for Monte Carlo Path Traced images",
+    "session": "Diffusion-Based Image Editing & Manipulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763846"
+  },
+  {
+    "id": "papers_2062",
+    "title": "Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields",
+    "session": "Diffusion-Based Image Editing & Manipulation",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763971"
+  },
+  {
+    "id": "papers_1159",
+    "title": "LEGO-Maker: Autoregressive Image-Conditioned LEGO Model Creation",
+    "session": "Geometry Processing & Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3763285"
+  },
+  {
+    "id": "papers_1473",
+    "title": "LegoACE: Autoregressive Construction Engine for Expressive LEGO Assemblies",
+    "session": "Geometry Processing & Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763881"
+  },
+  {
+    "id": "papers_1432",
+    "title": "Computational Design of Shape-Aware Sieves",
+    "session": "Geometry Processing & Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763875"
+  },
+  {
+    "id": "papers_1871",
+    "title": "Designing with Tension: Nearly-Developable Patch Layouts",
+    "session": "Geometry Processing & Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763941"
+  },
+  {
+    "id": "papers_1136",
+    "title": "Inverse Tiling of 2D Finite Domains",
+    "session": "Geometry Processing & Representations",
+    "url": "https://dl.acm.org/doi/10.1145/3757377.3763834"
+  }
+]

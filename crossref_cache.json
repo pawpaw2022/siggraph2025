@@ -1,0 +1,1667 @@
+{
+  "shape for motion precise and consistent video editing with 3d proxy": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763816",
+    "matched_title": "Shape-for-Motion: Precise and Consistent Video Editing With 3D Proxy",
+    "score": 1.00005751207
+  },
+  "solid shell labeling for discrete surfaces": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763847",
+    "matched_title": "Solid-Shell Labeling for Discrete Surfaces",
+    "score": 1.000032722088
+  },
+  "camclonemaster enabling reference based camera control for video generation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763841",
+    "matched_title": "CamCloneMaster: Enabling Reference-based Camera Control for Video Generation",
+    "score": 1.000052720062
+  },
+  "cut2next generating next shot via in context tuning": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763896",
+    "matched_title": "Cut2Next: Generating Next Shot via In-Context Tuning",
+    "score": 1.00005588046
+  },
+  "uni3c unifying precisely 3d enhanced camera and human motion controls for video generation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763842",
+    "matched_title": "Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation",
+    "score": 1.000077325645
+  },
+  "scattering aware color calibration for 3d printers using a simple calibration target": {
+    "status": "found",
+    "doi": "10.1145/3763293",
+    "matched_title": "Scattering-Aware Color Calibration for 3D Printers Using a Simple Calibration Target",
+    "score": 1.000071729675
+  },
+  "partuv part based uv unwrapping of 3d meshes": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763843",
+    "matched_title": "PartUV: Part-Based UV Unwrapping of 3D Meshes",
+    "score": 1.000057733704
+  },
+  "campvg camera controlled panoramic video generation with epipolar aware diffusion": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763990",
+    "matched_title": "CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion",
+    "score": 1.00007748929
+  },
+  "context as memory scene consistent interactive long video generation with memory retrieval": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763833",
+    "matched_title": "Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval",
+    "score": 1.00006408291
+  },
+  "ribbonsculpt voronoi ball based 3d sculpting from sparse vr ribbons": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763994",
+    "matched_title": "RibbonSculpt: Voronoi Ball based 3D Sculpting from Sparse VR Ribbons",
+    "score": 1.00008062629
+  },
+  "difftex differentiable texturing for architectural proxy models": {
+    "status": "found",
+    "doi": "10.1145/3763312",
+    "matched_title": "DiffTex: Differentiable Texturing for Architectural Proxy Models",
+    "score": 1.000053257343
+  },
+  "variational neural surfacing of 3d sketches": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763900",
+    "matched_title": "Variational Neural Surfacing of 3D Sketches",
+    "score": 1.00004477987
+  },
+  "seqtex generate mesh textures in video sequence": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763863",
+    "matched_title": "SeqTex: Generate Mesh Textures in Video Sequence",
+    "score": 1.000052958755
+  },
+  "fine grained spatially varying material selection in images": {
+    "status": "found",
+    "doi": "10.1145/3763332",
+    "matched_title": "Fine-Grained Spatially Varying Material Selection in Images",
+    "score": 1.00004457219
+  },
+  "neural kinematic bases for fluids": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763925",
+    "matched_title": "Neural Kinematic Bases for Fluids",
+    "score": 1.000029288176
+  },
+  "precise gradient discontinuities in neural fields for subspace physics": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763810",
+    "matched_title": "Precise Gradient Discontinuities in Neural Fields for Subspace Physics",
+    "score": 1.00005073841
+  },
+  "example based feature painting on textures": {
+    "status": "found",
+    "doi": "10.1145/3763301",
+    "matched_title": "Example-Based Feature Painting on Textures",
+    "score": 1.000037530376
+  },
+  "s3 imagery specular shading from scratch anisotropy": {
+    "status": "not_found"
+  },
+  "neuvas neural implicit surfaces for variational shape modeling": {
+    "status": "found",
+    "doi": "10.1145/3763331",
+    "matched_title": "NeuVAS: Neural Implicit Surfaces for Variational Shape Modeling",
+    "score": 1.00004426985
+  },
+  "neural octahedral field octahedral prior for simultaneous smoothing and sharp edge regularization": {
+    "status": "found",
+    "doi": "10.1145/3763362",
+    "matched_title": "Neural Octahedral Field: Octahedral Prior for Simultaneous Smoothing and Sharp Edge Regularization",
+    "score": 1.00008220678
+  },
+  "practical gaussian process implicit surfaces with sparse convolutions": {
+    "status": "found",
+    "doi": "10.1145/3763329",
+    "matched_title": "Practical Gaussian Process Implicit Surfaces with Sparse Convolutions",
+    "score": 1.000051775528
+  },
+  "constructing diffusion avatar with learnable embeddings": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763953",
+    "matched_title": "Constructing Diffusion Avatar with Learnable Embeddings",
+    "score": 1.000048088726
+  },
+  "hrm 2avatar high fidelity real time mobile avatars from monocular phone scans": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763894",
+    "matched_title": "HRM^2Avatar: High-Fidelity Real-Time Mobile Avatars from Monocular Phone Scans",
+    "score": 1.00008497104
+  },
+  "generative head mounted camera captures for photorealistic avatars": {
+    "status": "found",
+    "doi": "10.1145/3763300",
+    "matched_title": "Generative Head-Mounted Camera Captures for Photorealistic Avatars",
+    "score": 1.0000528531
+  },
+  "prioravatar efficient and robust avatar creation from monocular video using learned priors": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763978",
+    "matched_title": "PriorAvatar: Efficient and Robust Avatar Creation from Monocular Video Using Learned Priors",
+    "score": 1.000084993256
+  },
+  "waste to value reutilized material maximization for additive and subtractive hybrid remanufacturing": {
+    "status": "found",
+    "doi": "10.1145/3763313",
+    "matched_title": "Waste-to-Value: Reutilized Material Maximization for Additive and Subtractive Hybrid Remanufacturing",
+    "score": 1.00006822439
+  },
+  "can any model be fabricated inverse operation based planning for hybrid additive subtractive manufacturing": {
+    "status": "found",
+    "doi": "10.1145/3763355",
+    "matched_title": "Can Any Model Be Fabricated? Inverse Operation Based Planning for Hybrid Additive-Subtractive Manufacturing",
+    "score": 1.00006562419
+  },
+  "humanlift single image 3d human reconstruction with 3d aware diffusion priors and facial enhancement": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763839",
+    "matched_title": "Single-Image 3D Human Reconstruction with 3D-Aware Diffusion Priors and Facial Enhancement",
+    "score": 0.9474368803226315
+  },
+  "chapper carvable hull and pack for subtractive manufacturing": {
+    "status": "found",
+    "doi": "10.1145/3763314",
+    "matched_title": "Chapper: Carvable Hull-and-Pack for Subtractive Manufacturing",
+    "score": 1.000058933834
+  },
+  "infinihuman realistic 3d human creation with precise control": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763815",
+    "matched_title": "InfiniHuman: Realistic 3D Human Creation with Precise Control",
+    "score": 1.000056203487
+  },
+  "migumi making tightly coupled integral joints millable": {
+    "status": "found",
+    "doi": "10.1145/3763304",
+    "matched_title": "MiGumi: Making Tightly Coupled Integral Joints Millable",
+    "score": 1.000063719227
+  },
+  "curve based slicer for multi axis dlp 3d printing": {
+    "status": "found",
+    "doi": "10.1145/3763352",
+    "matched_title": "Curve-Based Slicer for Multi-Axis DLP 3D Printing",
+    "score": 1.00005421134
+  },
+  "a highly efficient hybrid simulation system for flight controller design and evaluation of unmanned aerial vehicles": {
+    "status": "found",
+    "doi": "10.1145/3763283",
+    "matched_title": "A Highly-Efficient Hybrid Simulation System for Flight Controller Design and Evaluation of Unmanned Aerial Vehicles",
+    "score": 1.00006524141
+  },
+  "inf 3dp implicit neural fields for collision free multi axis 3d printing": {
+    "status": "found",
+    "doi": "10.1145/3763354",
+    "matched_title": "INF-3DP: Implicit Neural Fields for Collision-Free Multi-Axis 3D Printing",
+    "score": 1.000068963135
+  },
+  "neural visibility of point sets": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763869",
+    "matched_title": "Neural Visibility of Point Sets",
+    "score": 1.000029422607
+  },
+  "lightweight edge aware and temporally consistent supersampling for mobile real time rendering": {
+    "status": "found",
+    "doi": "10.1145/3763348",
+    "matched_title": "Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering",
+    "score": 1.00006717581
+  },
+  "physic physically plausible 3d human scene interaction and contact from a single image": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763862",
+    "matched_title": "PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image",
+    "score": 1.00007104225
+  },
+  "consecutive frame extrapolation with predictive sparse shading": {
+    "status": "found",
+    "doi": "10.1145/3763363",
+    "matched_title": "Consecutive Frame Extrapolation with Predictive Sparse Shading",
+    "score": 1.000048349075
+  },
+  "potentially visible set generation with the disocclusion buffer": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763981",
+    "matched_title": "Potentially Visible Set Generation with the Disocclusion Buffer",
+    "score": 1.00005031667
+  },
+  "neuralpvs learned estimation of potentially visible sets": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763822",
+    "matched_title": "NeuralPVS: Learned Estimation of Potentially Visible Sets",
+    "score": 1.00005215786
+  },
+  "freemusco motion free learning of latent control for morphology adaptive locomotion in musculoskeletal characters": {
+    "status": "found",
+    "doi": "10.1145/3757377.3764002",
+    "matched_title": "FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters",
+    "score": 1.00008320413
+  },
+  "discovering folding lines for surface compression": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763983",
+    "matched_title": "Discovering Folding Lines for Surface Compression",
+    "score": 1.000039715004
+  },
+  "cfc simulating character fluid coupling using a two level world model": {
+    "status": "found",
+    "doi": "10.1145/3763318",
+    "matched_title": "CFC: Simulating Character-Fluid Coupling using a Two-Level World Model",
+    "score": 1.000051744568
+  },
+  "one string to pull them all fast assembly of curved structures from flat auxetic linkages": {
+    "status": "found",
+    "doi": "10.1145/3763357",
+    "matched_title": "One String to Pull Them All: Fast Assembly of Curved Structures from Flat Auxetic Linkages",
+    "score": 1.00008360917
+  },
+  "reconfigurable hinged kirigami tessellations": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763895",
+    "matched_title": "Reconfigurable Hinged Kirigami Tessellations",
+    "score": 1.000047821472
+  },
+  "force dual modes subspace design from stochastic forces": {
+    "status": "found",
+    "doi": "10.1145/3763310",
+    "matched_title": "Force-Dual Modes: Subspace Design from Stochastic Forces",
+    "score": 1.00004927885
+  },
+  "snapping deployable toroids for modular gridshells": {
+    "status": "found",
+    "doi": "10.1145/3763808",
+    "matched_title": "Snapping Deployable Toroids for Modular Gridshells",
+    "score": 1.000053030724
+  },
+  "fast and stable control of coupled solid fluid dynamic systems": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763997",
+    "matched_title": "Fast &amp; Stable Control of Coupled Solid-Fluid Dynamic Systems",
+    "score": 0.9764242132239056
+  },
+  "star shaped distance voronoi diagrams for 3d metamaterial design": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763996",
+    "matched_title": "Star-Shaped Distance Voronoi Diagrams for 3D Metamaterial Design",
+    "score": 1.000064253006
+  },
+  "closed form construction of voronoi diagrams with star shaped metrics": {
+    "status": "found",
+    "doi": "10.1145/3763296",
+    "matched_title": "Closed-Form Construction of Voronoi Diagrams with Star-Shaped Metrics",
+    "score": 1.00005951737
+  },
+  "cameravdp perceptual display assessment with uncertainty estimation via camera and visual difference prediction": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763825",
+    "matched_title": "CameraVDP: Perceptual Display Assessment with Uncertainty Estimation via Camera and Visual Difference Prediction",
+    "score": 1.00007854926
+  },
+  "automated design of compound lenses with discrete continuous optimization": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763850",
+    "matched_title": "Automated design of compound lenses with discrete-continuous optimization",
+    "score": 1.000045861515
+  },
+  "diffcamera arbitrary refocusing on images": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763827",
+    "matched_title": "DiffCamera: Arbitrary Refocusing on Images",
+    "score": 1.00004446312
+  },
+  "learning to refocus with video diffusion models": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763873",
+    "matched_title": "Learning to Refocus with Video Diffusion Models",
+    "score": 1.00003546383
+  },
+  "ultrazoom generating gigapixel images from regular photos": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763919",
+    "matched_title": "UltraZoom: Generating Gigapixel Images from Regular Photos",
+    "score": 1.00006552332
+  },
+  "nonlinear noise2noise for efficient monte carlo denoiser training": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763931",
+    "matched_title": "Nonlinear Noise2Noise for Efficient Monte Carlo Denoiser Training",
+    "score": 1.00006590623
+  },
+  "generating the past present and future from a motion blurred image": {
+    "status": "found",
+    "doi": "10.1145/3763306",
+    "matched_title": "Generating the Past, Present and Future from a Motion-Blurred Image",
+    "score": 1.00004568817
+  },
+  "statistical error reduction for monte carlo rendering": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763995",
+    "matched_title": "Statistical Error Reduction for Monte Carlo Rendering",
+    "score": 1.000045703346
+  },
+  "jackknife transmittance and mis weight estimation": {
+    "status": "found",
+    "doi": "10.1145/3763273",
+    "matched_title": "Jackknife Transmittance and MIS Weight Estimation",
+    "score": 1.000048086285
+  },
+  "dscombiner double shrinkage for combining biased and unbiased monte carlo renderings": {
+    "status": "found",
+    "doi": "10.1145/3763315",
+    "matched_title": "DSCombiner: Double Shrinkage for Combining Biased and Unbiased Monte Carlo Renderings",
+    "score": 1.000073413734
+  },
+  "x actor emotional and expressive long range portrait acting from audio": {
+    "status": "not_found"
+  },
+  "sz sequences binary constructed 0 2 q sequences": {
+    "status": "not_found"
+  },
+  "lsf animation label free speech driven facial animation via implicit feature representation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763887",
+    "matched_title": "LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation",
+    "score": 1.000090383385
+  },
+  "audio driven real time facial animation for social telepresence": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763854",
+    "matched_title": "Audio Driven Real-Time Facial Animation for Social Telepresence",
+    "score": 1.000052112434
+  },
+  "artalk speech driven 3d head animation via autoregressive model": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763955",
+    "matched_title": "ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model",
+    "score": 1.00006815728
+  },
+  "imperfect image space control variates for monte carlo rendering": {
+    "status": "found",
+    "doi": "10.1145/3763335",
+    "matched_title": "Imperfect Image-Space Control Variates for Monte Carlo Rendering",
+    "score": 1.000062079323
+  },
+  "high fidelity dynamic portrait animation via direct preference optimization and temporal motion modulation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763914",
+    "matched_title": "High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation",
+    "score": 1.00006855679
+  },
+  "audio driven universal gaussian head avatars": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763939",
+    "matched_title": "Audio Driven Universal Gaussian Head Avatars",
+    "score": 1.000046655983
+  },
+  "shapegen towards high quality 3d shape synthesis": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763812",
+    "matched_title": "ShapeGen: Towards High-Quality 3D Shape Synthesis",
+    "score": 1.000045414368
+  },
+  "autoregressive generation of static and growing trees": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763818",
+    "matched_title": "Autoregressive Generation of Static and Growing Trees",
+    "score": 1.00003651615
+  },
+  "omnipart part aware 3d generation with semantic decoupling and structural cohesion": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763872",
+    "matched_title": "OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion",
+    "score": 1.00005924975
+  },
+  "art deco arbitrary text guidance for 3d detailizer construction": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763877",
+    "matched_title": "ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction",
+    "score": 1.00006449417
+  },
+  "dvd unleashing a generative paradigm for document dewarping via coordinates based diffusion model": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763913",
+    "matched_title": "DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model",
+    "score": 1.000081292175
+  },
+  "spgen spherical projection as consistent and flexible representation for single image 3d shape generation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763959",
+    "matched_title": "SPGen: Spherical Projection as Consistent and Flexible Representation for Single Image 3D Shape Generation",
+    "score": 1.00007122759
+  },
+  "hrc net learning visual hypothesis representative and collaboration for multi domain image inpainting": {
+    "status": "found",
+    "doi": "10.1145/3763337",
+    "matched_title": "HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting",
+    "score": 1.00006555259
+  },
+  "automatic sampling for discontinuities in differentiable shaders": {
+    "status": "found",
+    "doi": "10.1145/3763291",
+    "matched_title": "Automatic Sampling for Discontinuities in Differentiable Shaders",
+    "score": 1.000044190086
+  },
+  "harnessing diffusion yielded score priors for image restoration": {
+    "status": "found",
+    "doi": "10.1145/3763346",
+    "matched_title": "Harnessing Diffusion-Yielded Score Priors for Image Restoration",
+    "score": 1.000050769978
+  },
+  "differentiable light transport with gaussian surfels via adapted radiosity for efficient relighting and geometry reconstruction": {
+    "status": "found",
+    "doi": "10.1145/3763305",
+    "matched_title": "Differentiable Light Transport with Gaussian Surfels via Adapted Radiosity for Efficient Relighting and Geometry Reconstruction",
+    "score": 1.00008815356
+  },
+  "elad blind face restoration using expectation based likelihood approximation and diffusion prior": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763969",
+    "matched_title": "ELAD: Blind Face Restoration using Expectation-based Likelihood Approximation and Diffusion Prior",
+    "score": 1.00008087458
+  },
+  "self supervised underwater color restoration via wavelet diffusion model with filtered multi scale feature distillation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763999",
+    "matched_title": "Self-supervised Underwater Color Restoration via Wavelet-Diffusion Model with Filtered Multi-Scale Feature Distillation",
+    "score": 1.00008509162
+  },
+  "spectral reconstruction with uncertainty quantification via differentiable rendering and null space sampling": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763918",
+    "matched_title": "Spectral Reconstruction with Uncertainty Quantification via Differentiable Rendering and Null-Space Sampling",
+    "score": 1.000071521225
+  },
+  "adaptive neural kernels for gradient domain rendering": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763920",
+    "matched_title": "Adaptive Neural Kernels for Gradient-domain Rendering",
+    "score": 1.000047445366
+  },
+  "generalized unbiased reconstruction for gradient domain rendering": {
+    "status": "found",
+    "doi": "10.1145/3763297",
+    "matched_title": "Generalized Unbiased Reconstruction for Gradient-Domain Rendering",
+    "score": 1.00004573757
+  },
+  "vertical binocular misalignment in ar impairs reading performance": {
+    "status": "found",
+    "doi": "10.1145/3757377.3764003",
+    "matched_title": "Vertical Binocular Misalignment in AR Impairs Reading Performance",
+    "score": 1.000057332306
+  },
+  "milo a lightweight perceptual quality metric for image and latent space optimization": {
+    "status": "found",
+    "doi": "10.1145/3763340",
+    "matched_title": "MILO: A Lightweight Perceptual Quality Metric for Image and Latent-Space Optimization",
+    "score": 1.000058121735
+  },
+  "supra threshold contrast perception in augmented reality": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763824",
+    "matched_title": "Supra-threshold Contrast Perception in Augmented Reality",
+    "score": 1.00004804145
+  },
+  "glare pattern depiction high fidelity physical computation and physiologically inspired visual response": {
+    "status": "found",
+    "doi": "10.1145/3763356",
+    "matched_title": "Glare Pattern Depiction: High-Fidelity Physical Computation and Physiologically-Inspired Visual Response",
+    "score": 1.000076728745
+  },
+  "performance analysis of catch up eye movements in visual tracking": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763837",
+    "matched_title": "Performance Analysis of Catch-Up Eye Movements in Visual Tracking",
+    "score": 1.000050976593
+  },
+  "modeling and exploiting the time course of chromatic adaptation for display power optimizations in virtual reality": {
+    "status": "found",
+    "doi": "10.1145/3763294",
+    "matched_title": "Modeling and Exploiting the Time Course of Chromatic Adaptation for Display Power Optimizations in Virtual Reality",
+    "score": 1.00006945909
+  },
+  "trackersplat exploiting point tracking for fast and robust dynamic 3d gaussians reconstruction": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763829",
+    "matched_title": "TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction",
+    "score": 1.00007749235
+  },
+  "clustered error correction with grouped 4d gaussian splatting": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763858",
+    "matched_title": "Clustered Error Correction with Grouped 4D Gaussian Splatting",
+    "score": 1.00006473752
+  },
+  "anchored 4d gaussian splatting for dynamic novel view synthesis": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763898",
+    "matched_title": "Anchored 4D Gaussian Splatting for Dynamic Novel View Synthesis",
+    "score": 1.000060931656
+  },
+  "split4d decomposed 4d scene reconstruction without video segmentation": {
+    "status": "found",
+    "doi": "10.1145/3763343",
+    "matched_title": "Split4D: Decomposed 4D Scene Reconstruction Without Video Segmentation",
+    "score": 1.000058954765
+  },
+  "4dslomo 4d reconstruction for high speed scene with asynchronous capture": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763908",
+    "matched_title": "4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture",
+    "score": 1.000062579052
+  },
+  "realistic cloth rendering with a ray wave hybrid shading model": {
+    "status": "found",
+    "doi": "10.1145/3763359",
+    "matched_title": "Realistic Cloth Rendering with a Ray-Wave Hybrid Shading Model",
+    "score": 1.000054781647
+  },
+  "garmagenet a multimodal generative framework for sewing pattern design and generic garment modeling": {
+    "status": "found",
+    "doi": "10.1145/3763271",
+    "matched_title": "GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling",
+    "score": 1.00006943743
+  },
+  "prior enhanced gaussian splatting for dynamic scene reconstruction from casual video": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763910",
+    "matched_title": "Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video",
+    "score": 1.0000706952
+  },
+  "a nonconforming formulation of cloth": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763989",
+    "matched_title": "A Nonconforming Formulation of Cloth",
+    "score": 1.000030302288
+  },
+  "neighbor aware data driven relaxation of stitch mesh models for knits": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763890",
+    "matched_title": "Neighbor-Aware Data-Driven Relaxation of Stitch Mesh Models for Knits",
+    "score": 1.000067821106
+  },
+  "progressive outfit assembly and instantaneous pose transfer": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763868",
+    "matched_title": "Progressive Outfit Assembly and Instantaneous Pose Transfer",
+    "score": 1.000049504494
+  },
+  "egg fusion efficient 3d reconstruction with geometry aware gaussian surfel on the fly": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763878",
+    "matched_title": "EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly",
+    "score": 1.0000725864
+  },
+  "inverse radiative transport for infrared scenes with gaussian primitives": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763938",
+    "matched_title": "Inverse Radiative Transport for Infrared Scenes with Gaussian Primitives",
+    "score": 1.000056947598
+  },
+  "gigaslam large scale monocular slam with hierarchical gaussian splats": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763932",
+    "matched_title": "GigaSLAM: Large-Scale Monocular SLAM with Hierarchical Gaussian Splats",
+    "score": 1.00007706761
+  },
+  "numerical homogenization of sand from grain level simulations": {
+    "status": "found",
+    "doi": "10.1145/3763344",
+    "matched_title": "Numerical Homogenization of Sand from Grain-level Simulations",
+    "score": 1.000044963177
+  },
+  "water watertight tessellation for real time pixel accurate rendering of large scale surfaces": {
+    "status": "found",
+    "doi": "10.1145/3763317",
+    "matched_title": "WATER: Watertight Tessellation for Real-Time Pixel-Accurate Rendering of Large-Scale Surfaces",
+    "score": 1.00007637898
+  },
+  "artifact resilient real time holography": {
+    "status": "found",
+    "doi": "10.1145/3763361",
+    "matched_title": "Artifact-Resilient Real-Time Holography",
+    "score": 1.000032261303
+  },
+  "efficient object reconstruction with differentiable area light shading": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763865",
+    "matched_title": "Efficient Object Reconstruction with Differentiable Area Light Shading",
+    "score": 1.000045478638
+  },
+  "gaussian see gaussian do semantic 3d motion transfer from multiview video": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763992",
+    "matched_title": "Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video",
+    "score": 1.00007882401
+  },
+  "qmf blend quantized matrix factorization for efficient blendshape compression": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763961",
+    "matched_title": "QMF-Blend: Quantized Matrix Factorization for Efficient Blendshape Compression",
+    "score": 1.00008061003
+  },
+  "animaker multi agent animated storytelling with mcts driven clip generation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3764009",
+    "matched_title": "AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation",
+    "score": 1.00007787661
+  },
+  "improving curl noise": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763980",
+    "matched_title": "Improving Curl Noise",
+    "score": 1.000025131416
+  },
+  "shape aware inertial poser motion tracking for humans with diverse shapes using sparse inertial sensors": {
+    "status": "found",
+    "doi": "10.1145/3763311",
+    "matched_title": "Shape-aware Inertial Poser: Motion Tracking for Humans with Diverse Shapes Using Sparse Inertial Sensors",
+    "score": 1.00008953122
+  },
+  "low rank adaptation of neural fields": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763882",
+    "matched_title": "Low-Rank Adaptation of Neural Fields",
+    "score": 1.0000333217
+  },
+  "milo mesh in the loop gaussian splatting for detailed and efficient surface reconstruction": {
+    "status": "found",
+    "doi": "10.1145/3763339",
+    "matched_title": "MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction",
+    "score": 1.00006237076
+  },
+  "marching neurons accurate surface extraction for neural implicit shapes": {
+    "status": "found",
+    "doi": "10.1145/3763328",
+    "matched_title": "Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes",
+    "score": 1.00005686008
+  },
+  "sof sorted opacity fields for fast unbounded surface reconstruction": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763933",
+    "matched_title": "SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction",
+    "score": 1.00006406851
+  },
+  "capturing non linear human perspective in line drawings": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763902",
+    "matched_title": "Capturing Non-Linear Human Perspective in Line Drawings",
+    "score": 1.000043996037
+  },
+  "kisscolor kinetic and intuitive stroke stretching for vector drawing colorization": {
+    "status": "found",
+    "doi": "10.1145/3763307",
+    "matched_title": "KISSColor: Kinetic and Intuitive Stroke Stretching for Vector Drawing Colorization",
+    "score": 1.000063587452
+  },
+  "autosketch vlm assisted style aware vector sketch completion": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763828",
+    "matched_title": "AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion",
+    "score": 1.00007216341
+  },
+  "spectral prefiltering of neural fields": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763901",
+    "matched_title": "Spectral Prefiltering of Neural Fields",
+    "score": 1.000032875957
+  },
+  "rara clipper a clipper for gaussian splatting based on ray tracer and rasterizer": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763982",
+    "matched_title": "RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer",
+    "score": 1.00009507083
+  },
+  "layerpeeler autoregressive peeling for layer wise image vectorization": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763964",
+    "matched_title": "LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization",
+    "score": 1.00007201379
+  },
+  "neural image abstraction using long smoothing b splines": {
+    "status": "found",
+    "doi": "10.1145/3763345",
+    "matched_title": "Neural Image abstraction using long smoothing B-splines",
+    "score": 1.000044633823
+  },
+  "utdesign a unified framework for stylized text editing and generation in graphic design images": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763923",
+    "matched_title": "UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images",
+    "score": 1.00007346637
+  },
+  "autobrep autoregressive b rep generation with unified topology and geometry": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763814",
+    "matched_title": "AutoBrep : Autoregressive B-Rep Generation with Unified Topology and Geometry",
+    "score": 1.000057410816
+  },
+  "brepgpt autoregressive b rep generation with voronoi half patch": {
+    "status": "found",
+    "doi": "10.1145/3763323",
+    "matched_title": "BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch",
+    "score": 1.000057351723
+  },
+  "curvature enthusiasm correspondence free interpolation and matching of articulated 3d shapes using compressed normal cycles": {
+    "status": "found",
+    "doi": "10.1145/3763366",
+    "matched_title": "Curvature Enthusiasm: Correspondence-Free Interpolation and Matching of Articulated 3D Shapes using Compressed Normal Cycles",
+    "score": 1.00008692068
+  },
+  "nurbs based grid shell form finding on domains with topologically arbitrary boundaries": {
+    "status": "found",
+    "doi": "10.1145/3763284",
+    "matched_title": "NURBS-Based Grid Shell Form Finding on Domains with Topologically Arbitrary Boundaries",
+    "score": 1.00007612758
+  },
+  "g 2 interpolating spline with local maximum curvature": {
+    "status": "found",
+    "doi": "10.1145/3763316",
+    "matched_title": "G\n                    <sup>2</sup>\n                    Interpolating Spline with Local Maximum Curvature",
+    "score": 0.9298671886335088
+  },
+  "overlap region extraction of two nurbs surfaces": {
+    "status": "found",
+    "doi": "10.1145/3763308",
+    "matched_title": "Overlap Region Extraction of Two NURBS Surfaces",
+    "score": 1.00004574222
+  },
+  "img2cad reverse engineering 3d cad models from images through vlm assisted conditional factorization": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763891",
+    "matched_title": "Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization",
+    "score": 1.00008184543
+  },
+  "motion in betweening for densely interacting characters": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763950",
+    "matched_title": "Motion In-Betweening for Densely Interacting Characters",
+    "score": 1.000049362167
+  },
+  "control operators for interactive character animation": {
+    "status": "found",
+    "doi": "10.1145/3763319",
+    "matched_title": "Control Operators for Interactive Character Animation",
+    "score": 1.000035403347
+  },
+  "environment aware motion matching": {
+    "status": "found",
+    "doi": "10.1145/3763334",
+    "matched_title": "Environment-aware Motion Matching",
+    "score": 1.00002697632
+  },
+  "computational modeling and design of capacitive stretch sensors": {
+    "status": "found",
+    "doi": "10.1145/3763274",
+    "matched_title": "Computational Modeling and Design of Capacitive Stretch Sensors",
+    "score": 1.00003845127
+  },
+  "learning to ball composing policies for long horizon basketball moves": {
+    "status": "found",
+    "doi": "10.1145/3763367",
+    "matched_title": "Learning to Ball: Composing Policies for Long-Horizon Basketball Moves",
+    "score": 1.00005341165
+  },
+  "stablemotion training motion cleanup models with unpaired corrupted data": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763817",
+    "matched_title": "StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data",
+    "score": 1.000062998207
+  },
+  "acoustic reliefs": {
+    "status": "found",
+    "doi": "10.1145/3763287",
+    "matched_title": "Acoustic Reliefs",
+    "score": 1.000018946896
+  },
+  "physiopt physics driven shape optimization for 3d generative models": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763884",
+    "matched_title": "PhysiOpt: Physics-Driven Shape Optimization for 3D Generative Models",
+    "score": 1.00005617174
+  },
+  "large area fabrication aware computational diffractive optics": {
+    "status": "found",
+    "doi": "10.1145/3763358",
+    "matched_title": "Large-Area Fabrication-aware Computational Diffractive Optics",
+    "score": 1.00004320252
+  },
+  "designing and fabricating color brdfs with differentiable wave optics": {
+    "status": "found",
+    "doi": "10.1145/3763275",
+    "matched_title": "Designing and Fabricating Color BRDFs with Differentiable Wave Optics",
+    "score": 1.0000551748
+  },
+  "object level visual prompts for compositional image generation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763867",
+    "matched_title": "Object-level Visual Prompts for Compositional Image Generation",
+    "score": 1.000044677483
+  },
+  "composeme attribute specific image prompts for controllable human image generation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763984",
+    "matched_title": "ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation",
+    "score": 1.00006956367
+  },
+  "partcomposer learning and composing part level concepts from single image examples": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763947",
+    "matched_title": "PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples",
+    "score": 1.00007074235
+  },
+  "maler improving compositional fidelity in layout guided generation": {
+    "status": "found",
+    "doi": "10.1145/3763341",
+    "matched_title": "MALeR: Improving Compositional Fidelity in Layout-Guided Generation",
+    "score": 1.000057151558
+  },
+  "auto hair card extraction for smooth hair with differentiable rendering": {
+    "status": "found",
+    "doi": "10.1145/3763295",
+    "matched_title": "Auto Hair Card Extraction for Smooth Hair with Differentiable Rendering",
+    "score": 1.00006186036
+  },
+  "single image 3d portrait relighting with generative priors": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763962",
+    "matched_title": "3DPR: Single Image 3D Portrait Relighting with Generative Priors",
+    "score": 0.9587233232104132
+  },
+  "strands2cards automatic generation of hair cards from strands": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763864",
+    "matched_title": "Strands2Cards: Automatic Generation of Hair Cards from Strands",
+    "score": 1.000062258816
+  },
+  "charm control point based 3d anime hairstyle auto regressive modeling": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763912",
+    "matched_title": "CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling",
+    "score": 1.00007232824
+  },
+  "shaping strands with neural style transfer": {
+    "status": "found",
+    "doi": "10.1145/3763365",
+    "matched_title": "Shaping Strands with Neural Style Transfer",
+    "score": 1.000035262154
+  },
+  "single shot facial capture using polarized rgb sinusoidal illumination": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763942",
+    "matched_title": "Single-Shot Facial Capture using Polarized RGB Sinusoidal Illumination",
+    "score": 1.000073182144
+  },
+  "agswap overcoming category boundaries in object fusion via adaptive group swapping": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763944",
+    "matched_title": "AGSwap: Overcoming Category Boundaries in Object Fusion via Adaptive Group Swapping",
+    "score": 1.00007917877
+  },
+  "videofrom3d 3d scene video generation via complementary image and video diffusion models": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763871",
+    "matched_title": "VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models",
+    "score": 1.00008390734
+  },
+  "how does a virtual agent decide where to look symbolic cognitive reasoning for embodied head rotation": {
+    "status": "not_found"
+  },
+  "ss4d native 4d generative model via structured spacetime latents": {
+    "status": "found",
+    "doi": "10.1145/3763302",
+    "matched_title": "SS4D: Native 4D Generative Model via Structured Spacetime Latents",
+    "score": 1.000074018196
+  },
+  "generating 360 video is what you need for a 3d scene": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763876",
+    "matched_title": "Generating 360° Video is What You Need For a 3D Scene",
+    "score": 1.00005026926
+  },
+  "panodreamer optimization based single image to 360 3d scene with diffusion": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763883",
+    "matched_title": "PanoDreamer: Optimization-Based Single Image to 360 3D Scene With Diffusion",
+    "score": 1.00006256852
+  },
+  "worldexplorer towards generating fully navigable 3d scenes": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763946",
+    "matched_title": "WorldExplorer: Towards Generating Fully Navigable 3D Scenes",
+    "score": 1.00006892673
+  },
+  "voyager long range and world consistent video diffusion for explorable 3d scene generation": {
+    "status": "found",
+    "doi": "10.1145/3763330",
+    "matched_title": "Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation",
+    "score": 1.00006627645
+  },
+  "social agent mastering dyadic nonverbal behavior generation via conversational llm agents": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763879",
+    "matched_title": "Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents",
+    "score": 1.00007797171
+  },
+  "echo enhancing conversational behavior generation via hierarchical semantic comprehension with large language models": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763998",
+    "matched_title": "Echo: Enhancing Conversational Behavior Generation via Hierarchical Semantic Comprehension with Large Language Models",
+    "score": 1.000077224014
+  },
+  "symbridge a human in the loop cyber physical interactive system for adaptive human robot symbiosis": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763915",
+    "matched_title": "SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis",
+    "score": 1.0000590972
+  },
+  "unifying latent action and latent state pre training for policy learning from videos": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763966",
+    "matched_title": "Unifying Latent Action and Latent State Pre-training for Policy Learning from Videos",
+    "score": 1.00006606563
+  },
+  "bsp ot sparse transport plans between discrete measures in loglinear time": {
+    "status": "found",
+    "doi": "10.1145/3763281",
+    "matched_title": "BSP-OT: Sparse transport plans between discrete measures in loglinear time",
+    "score": 1.00007542378
+  },
+  "joruripuppet learning tempo changing mechanisms beyond the beat for music to motion generation with expressive metrics": {
+    "status": "found",
+    "doi": "10.1145/3757377.3764006",
+    "matched_title": "JoruriPuppet: Learning Tempo-Changing Mechanisms Beyond the Beat for Music-to-Motion Generation with Expressive Metrics",
+    "score": 1.00008994115
+  },
+  "efficient and scalable spatial regularization of optimal transport": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763976",
+    "matched_title": "Efficient and Scalable Spatial Regularization of Optimal Transport",
+    "score": 1.000042664528
+  },
+  "crossgen learning and generating cross fields for quad meshing": {
+    "status": "found",
+    "doi": "10.1145/3763299",
+    "matched_title": "CrossGen: Learning and Generating Cross Fields for Quad Meshing",
+    "score": 1.000048497826
+  },
+  "medial sphere preconditioning for knot untangling and volume filling curves": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763856",
+    "matched_title": "Medial Sphere Preconditioning for Knot Untangling and Volume-Filling Curves",
+    "score": 1.000070129265
+  },
+  "lifted surfacing of generalized sweep volumes": {
+    "status": "found",
+    "doi": "10.1145/3763360",
+    "matched_title": "Lifted Surfacing of Generalized Sweep Volumes",
+    "score": 1.000046096992
+  },
+  "pad3r pose aware dynamic 3d reconstruction from casual videos": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763836",
+    "matched_title": "PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos",
+    "score": 1.00006937894
+  },
+  "sums of wedges conforming weighted delaunay triangulations are polynomial in fixed dimension": {
+    "status": "found",
+    "doi": "10.1145/3763368",
+    "matched_title": "Sums of Wedges: Conforming Weighted Delaunay Triangulations are Polynomial in Fixed Dimension",
+    "score": 1.000079023605
+  },
+  "detail enhanced gaussian splatting for large scale volumetric capture": {
+    "status": "found",
+    "doi": "10.1145/3763336",
+    "matched_title": "Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture",
+    "score": 1.00005004
+  },
+  "gs roadpatching inpainting gaussians via 3d searching and placing for driving scenes": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763892",
+    "matched_title": "GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes",
+    "score": 1.00008510952
+  },
+  "neural hamiltonian deformation fields for dynamic scene rendering": {
+    "status": "found",
+    "doi": "10.1145/3757377.3764000",
+    "matched_title": "Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering",
+    "score": 1.00005221979
+  },
+  "mvp4d multi view portrait video diffusion for animatable 4d avatars": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763889",
+    "matched_title": "MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars",
+    "score": 1.000080608765
+  },
+  "mv performer taming video diffusion model for faithful and synchronized multi view performer synthesis": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763935",
+    "matched_title": "MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis",
+    "score": 1.00009271985
+  },
+  "gaussian integral linear operators for precomputed graphics": {
+    "status": "found",
+    "doi": "10.1145/3763321",
+    "matched_title": "Gaussian Integral Linear Operators for Precomputed Graphics",
+    "score": 1.000050947025
+  },
+  "robust derivative estimation with walk on stars": {
+    "status": "found",
+    "doi": "10.1145/3763333",
+    "matched_title": "Robust Derivative Estimation with Walk on Stars",
+    "score": 1.00003542267
+  },
+  "harmonic caching for walk on spheres": {
+    "status": "found",
+    "doi": "10.1145/3763322",
+    "matched_title": "Harmonic Caching for Walk on Spheres",
+    "score": 1.000034971428
+  },
+  "jump restore light transport": {
+    "status": "found",
+    "doi": "10.1145/3763286",
+    "matched_title": "Jump Restore Light Transport",
+    "score": 1.000031268383
+  },
+  "off centered wos type solvers with statistical weighting": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763852",
+    "matched_title": "Off-Centered WoS-Type Solvers with Statistical Weighting",
+    "score": 1.000060013317
+  },
+  "an adjoint method for differentiable fluid simulation on flow maps": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763903",
+    "matched_title": "An Adjoint Method for Differentiable Fluid Simulation on Flow Maps",
+    "score": 1.000043630726
+  },
+  "modepth benchmarking mobile multi frame monocular depth estimation with optical image stabilization": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763991",
+    "matched_title": "MODepth: Benchmarking Mobile Multi-frame Monocular Depth Estimation with Optical Image Stabilization",
+    "score": 1.00007624567
+  },
+  "ad gs alternating densification for sparse input 3d gaussian splatting": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763993",
+    "matched_title": "AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting",
+    "score": 1.000078249435
+  },
+  "sketch2posenet efficient and generalized sketch to 3d human pose prediction": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763855",
+    "matched_title": "Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction",
+    "score": 1.000058792736
+  },
+  "from rigging to waving 3d guided diffusion for natural animation of hand drawn characters": {
+    "status": "found",
+    "doi": "10.1145/3763280",
+    "matched_title": "From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters",
+    "score": 1.00007793936
+  },
+  "training free instance aware 3d scene reconstruction and diffusion based view synthesis from sparse images": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763977",
+    "matched_title": "Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images",
+    "score": 1.00008753755
+  },
+  "animax animating the inanimate in 3d with joint video pose diffusion models": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763885",
+    "matched_title": "AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models",
+    "score": 1.00007160797
+  },
+  "animus3d text driven 3d animation via motion score distillation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763916",
+    "matched_title": "Animus3D: Text-driven 3D Animation via Motion Score Distillation",
+    "score": 1.00007077983
+  },
+  "x unimotion animating human images with expressive unified and identity agnostic motion latents": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763952",
+    "matched_title": "X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents",
+    "score": 1.000085094505
+  },
+  "fairygen storied cartoon video from a single child drawn character": {
+    "status": "found",
+    "doi": "10.1145/3757377.3764007",
+    "matched_title": "FairyGen: Storied Cartoon Video from a Single Child-Drawn Character",
+    "score": 1.00008172113
+  },
+  "evaluating and sampling glinty ndfs in constant time": {
+    "status": "found",
+    "doi": "10.1145/3763282",
+    "matched_title": "Evaluating and Sampling Glinty NDFs in Constant Time",
+    "score": 1.000052967308
+  },
+  "3d smoe splatting for edge aware realtime radiance field rendering": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763899",
+    "matched_title": "3D SMoE Splatting for Edge-aware Realtime Radiance Field Rendering",
+    "score": 1.00008365985
+  },
+  "anysplat feed forward 3d gaussian splatting from unconstrained views": {
+    "status": "found",
+    "doi": "10.1145/3763326",
+    "matched_title": "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views",
+    "score": 1.00006252153
+  },
+  "powergs display rendering power co optimization for neural rendering in power constrained xr systems": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763851",
+    "matched_title": "PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems",
+    "score": 1.00009576667
+  },
+  "sparse cache updates for scalable distributed effect based rendering": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763968",
+    "matched_title": "Sparse Cache Updates for Scalable Distributed Effect-Based Rendering",
+    "score": 1.0000551845
+  },
+  "stylesculptor zero shot style controllable 3d asset generation with texture geometry dual guidance": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763929",
+    "matched_title": "StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance",
+    "score": 1.00008610462
+  },
+  "hierarchical neural semantic representation for 3d semantic correspondence": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763921",
+    "matched_title": "Hierarchical Neural Semantic Representation for 3D Semantic Correspondence",
+    "score": 1.0000501672
+  },
+  "stereofg generating stereo frames from centered feature stream": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763965",
+    "matched_title": "StereoFG: Generating Stereo Frames from Centered Feature Stream",
+    "score": 1.00006318087
+  },
+  "imaginarium vision guided high quality 3d scene layout generation": {
+    "status": "found",
+    "doi": "10.1145/3763353",
+    "matched_title": "Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation",
+    "score": 1.000053552784
+  },
+  "fuse3d generating 3d assets controlled by multi image fusion": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763943",
+    "matched_title": "Fuse3D: Generating 3D Assets Controlled by Multi-Image Fusion",
+    "score": 1.000059638077
+  },
+  "procedural scene programs for open universe scene generation llm free error correction via program search": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763930",
+    "matched_title": "Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search",
+    "score": 1.0000868834
+  },
+  "fovea stacking imaging with dynamic localized aberration correction": {
+    "status": "found",
+    "doi": "10.1145/3763278",
+    "matched_title": "Fovea Stacking: Imaging with Dynamic Localized Aberration Correction",
+    "score": 1.000055064556
+  },
+  "in 2 4d inbetweening from two single view images to 4d generation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763904",
+    "matched_title": "In-2-4D: Inbetweening from Two Single-View Images to 4D Generation",
+    "score": 1.00006781654
+  },
+  "robust single shot structured light 3d imaging via neural feature decoding": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763924",
+    "matched_title": "Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding",
+    "score": 1.00006533311
+  },
+  "transient lasso transient large scale scene reconstruction": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763911",
+    "matched_title": "Transient LASSO: Transient Large-Scale Scene Reconstruction",
+    "score": 1.000052935562
+  },
+  "shoot bounce 3d single shot occlusion aware 3d from lidar by decomposing two bounce light": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763945",
+    "matched_title": "Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light",
+    "score": 1.000104628235
+  },
+  "motion2motion cross topology motion retargeting with sparse correspondence": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763811",
+    "matched_title": "Motion2Motion: Cross-topology Motion Transfer with Sparse Correspondence",
+    "score": 0.9103917797862069
+  },
+  "lookup3d data driven 3d scanning": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763986",
+    "matched_title": "LookUp3D: Data-Driven 3D Scanning",
+    "score": 1.00003968792
+  },
+  "ultrafast and controllable online motion retargeting for game scenarios": {
+    "status": "found",
+    "doi": "10.1145/3763351",
+    "matched_title": "Ultrafast and Controllable Online Motion Retargeting for Game Scenarios",
+    "score": 1.000047306725
+  },
+  "underwater optical backscatter communications using acousto optic beam steering": {
+    "status": "found",
+    "doi": "10.1145/3763289",
+    "matched_title": "Underwater Optical Backscatter Communication using Acousto-Optic Beam Steering",
+    "score": 0.9936806482644076
+  },
+  "smf template free and rig free animation transfer using kinetic codes": {
+    "status": "found",
+    "doi": "10.1145/3763309",
+    "matched_title": "SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes",
+    "score": 1.00007425308
+  },
+  "physhmr learning humanoid control policies from vision for physically plausible human motion reconstruction": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763951",
+    "matched_title": "PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction",
+    "score": 1.000082582886
+  },
+  "generating detailed character motion from blocking poses": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763874",
+    "matched_title": "Generating Detailed Character Motion from Blocking Poses",
+    "score": 1.000055391754
+  },
+  "maskedmanipulator versatile whole body manipulation": {
+    "status": "not_found"
+  },
+  "generating objects with part articulation from a single image": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763893",
+    "matched_title": "Generating Objects with Part-Articulation from a Single Image",
+    "score": 1.00004040376
+  },
+  "freeart3d training free articulated object generation using 3d diffusion": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763845",
+    "matched_title": "FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion",
+    "score": 1.00006606045
+  },
+  "larm a large articulated object reconstruction model": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763844",
+    "matched_title": "LARM: A Large Articulated Object Reconstruction Model",
+    "score": 1.000046815598
+  },
+  "assembler scalable 3d part assembly via anchor point diffusion": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763972",
+    "matched_title": "Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion",
+    "score": 1.00006406682
+  },
+  "artilatent realistic articulated 3d object generation via structured latents": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763922",
+    "matched_title": "ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents",
+    "score": 1.00008264639
+  },
+  "llm primitives large language model for 3d reconstruction with primitives": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763857",
+    "matched_title": "LLM-Primitives: Large Language Model for 3D Reconstruction with Primitives",
+    "score": 1.00006701102
+  },
+  "consistyle style diversity in training free consistent t2i generation": {
+    "status": "found",
+    "doi": "10.1145/3763303",
+    "matched_title": "ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation",
+    "score": 1.00006992803
+  },
+  "bokeh diffusion defocus blur control in text to image diffusion models": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763906",
+    "matched_title": "Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models",
+    "score": 1.00007612601
+  },
+  "zero shot dynamic concept personalization with grid based lora": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763987",
+    "matched_title": "Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA",
+    "score": 1.000053078247
+  },
+  "practilight practical light control using foundational diffusion models": {
+    "status": "found",
+    "doi": "10.1145/3763342",
+    "matched_title": "PractiLight: Practical Light Control Using Foundational Diffusion Models",
+    "score": 1.00005399597
+  },
+  "ebrenv svbrdf estimation in uncontrolled environment lighting via exemplar based representation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763905",
+    "matched_title": "EBREnv: SVBRDF Estimation in Uncontrolled Environment Lighting via Exemplar-Based Representation",
+    "score": 1.00008165464
+  },
+  "sparse svbrdf acquisition via importance aware illumination multiplexing": {
+    "status": "found",
+    "doi": "10.1145/3763324",
+    "matched_title": "Sparse SVBRDF Acquisition via Importance-Aware Illumination Multiplexing",
+    "score": 1.000063564148
+  },
+  "diffusion guided relighting for single image svbrdf estimation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763809",
+    "matched_title": "Diffusion-Guided Relighting for Single-Image SVBRDF Estimation",
+    "score": 1.00005964283
+  },
+  "hyperspectral polarimetric brdfs of real world materials": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763853",
+    "matched_title": "Hyperspectral Polarimetric BRDFs of Real-world Materials",
+    "score": 1.000044821766
+  },
+  "chord chain of rendering decomposition for pbr material estimation from generated texture images": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763848",
+    "matched_title": "Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images",
+    "score": 1.00008057027
+  },
+  "anitex light geometry consistent pbr material generation for animatable objects": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763936",
+    "matched_title": "AniTex: Light-Geometry Consistent PBR Material Generation for Animatable Objects",
+    "score": 1.000072307724
+  },
+  "the granule in cell method for simulating sand water mixtures": {
+    "status": "found",
+    "doi": "10.1145/3763279",
+    "matched_title": "The Granule-In-Cell Method for Simulating Sand–Water Mixtures",
+    "score": 1.00004399464
+  },
+  "kinetic free surface flows and foams with sharp interfaces": {
+    "status": "found",
+    "doi": "10.1145/3763288",
+    "matched_title": "Kinetic Free-Surface Flows and Foams with Sharp Interfaces",
+    "score": 1.00004559008
+  },
+  "fire x extinguishing fire with stoichiometric heat release": {
+    "status": "found",
+    "doi": "10.1145/3763338",
+    "matched_title": "Fire-X: Extinguishing Fire with Stoichiometric Heat Release",
+    "score": 1.00004848126
+  },
+  "implicit incompressible porous flow using sph": {
+    "status": "found",
+    "doi": "10.1145/3763325",
+    "matched_title": "Implicit Incompressible Porous Flow using SPH",
+    "score": 1.000043102768
+  },
+  "wavelet fluids": {
+    "status": "found",
+    "doi": "10.1145/3763364",
+    "matched_title": "Wavelet Fluids",
+    "score": 1.000014607923
+  },
+  "multiphase particle based simulation of poro elasto capillary effects": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763960",
+    "matched_title": "Multiphase Particle-Based Simulation of Poro-Elasto-Capillary Effects",
+    "score": 1.000052345062
+  },
+  "light sq structure aware shape abstraction with superquadrics for generated meshes": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763835",
+    "matched_title": "Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes",
+    "score": 1.00005200083
+  },
+  "asia adaptive 3d segmentation using few image annotations": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763821",
+    "matched_title": "ASIA: Adaptive 3D Segmentation using Few Image Annotations",
+    "score": 1.000052960926
+  },
+  "temporally smooth mesh extraction for procedural scenes with long range camera trajectories using spacetime octrees": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763832",
+    "matched_title": "Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range Camera Trajectories using Spacetime Octrees",
+    "score": 1.000101939476
+  },
+  "rl acd reinforcement learning based approximate convex decomposition": {
+    "status": "found",
+    "doi": "10.1145/3763270",
+    "matched_title": "RL-ACD: Reinforcement Learning-based Approximate Convex Decomposition",
+    "score": 1.000053542778
+  },
+  "matstruct high quality medial mesh computation via structure aware variational optimization": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763840",
+    "matched_title": "MATStruct: High-quality Medial Mesh Computation via Structure-aware Variational Optimization",
+    "score": 1.00007265186
+  },
+  "design for descent what makes a shape grammar easy to optimize": {
+    "status": "found",
+    "doi": "10.1145/3757377.3764004",
+    "matched_title": "Design for Descent: What Makes a Shape Grammar Easy to Optimize?",
+    "score": 1.00006098008
+  },
+  "teamwork collaborative diffusion with low rank coordination and adaptation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763870",
+    "matched_title": "Teamwork: Collaborative Diffusion with Low-rank Coordination and Adaptation",
+    "score": 1.000054440884
+  },
+  "one shot embroidery customization via contrastive lora modulation": {
+    "status": "found",
+    "doi": "10.1145/3763290",
+    "matched_title": "One-shot Embroidery Customization via Contrastive LoRA Modulation",
+    "score": 1.000060461853
+  },
+  "virtually being customizing camera controllable video diffusion models with volumetric performance captures": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763888",
+    "matched_title": "Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Volumetric Performance Captures",
+    "score": 1.0000711
+  },
+  "proteus id id consistent and motion coherent video customization": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763949",
+    "matched_title": "Proteus-ID: ID-Consistent and Motion-Coherent Video Customization",
+    "score": 1.0000699916
+  },
+  "hiwave training free high resolution image generation via wavelet based diffusion sampling": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763979",
+    "matched_title": "HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling",
+    "score": 1.000077289894
+  },
+  "dreamid high fidelity and fast diffusion based face swapping via triplet id group learning": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763963",
+    "matched_title": "DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning",
+    "score": 1.00008337086
+  },
+  "gradient weighted feature back projection a fast alternative to feature distillation in 3d gaussian splatting": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763926",
+    "matched_title": "Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting",
+    "score": 1.00009303944
+  },
+  "neural texture splatting expressive 3d gaussian splatting for view synthesis geometry and dynamic reconstruction": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763957",
+    "matched_title": "Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction",
+    "score": 1.00009580821
+  },
+  "rigidity aware 3d gaussian deformation from a single image": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763937",
+    "matched_title": "Rigidity-Aware 3D Gaussian Deformation from a Single Image",
+    "score": 1.000052814606
+  },
+  "jumpinggs level jump 3d gaussian representation for delicate textures in aerial large scale scene rendering": {
+    "status": "found",
+    "doi": "10.1145/3763347",
+    "matched_title": "JumpingGS: Level-jump 3D Gaussian Representation for Delicate Textures in Aerial Large-scale Scene Rendering",
+    "score": 1.00009346573
+  },
+  "tc gs a faster gaussian splatting module utilizing tensor cores": {
+    "status": "found",
+    "doi": "10.1145/3757377.3764001",
+    "matched_title": "TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores",
+    "score": 1.00006965609
+  },
+  "demapgs simultaneous mesh deformation and surface attribute mapping via gaussian splatting": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763860",
+    "matched_title": "DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting",
+    "score": 1.000080449646
+  },
+  "physics based motion imitation with adversarial differential discriminators": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763819",
+    "matched_title": "Physics-Based Motion Imitation with Adversarial Differential Discriminators",
+    "score": 1.00004953482
+  },
+  "srbtrack terrain adaptive tracking of a single rigid body character using momentum mapped space time optimization": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763823",
+    "matched_title": "SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization",
+    "score": 1.00009609226
+  },
+  "learning human motion with temporally conditional mamba": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763948",
+    "matched_title": "Learning Human Motion with Temporally Conditional Mamba",
+    "score": 1.000042440907
+  },
+  "aerial path planning for urban geometry and texture co capture": {
+    "status": "found",
+    "doi": "10.1145/3763292",
+    "matched_title": "Aerial Path Planning for Urban Geometry and Texture Co-Capture",
+    "score": 1.000048996117
+  },
+  "homa towards generic human object interaction in multimodal driven human animation with weak conditions": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763861",
+    "matched_title": "HOMA: Towards Generic Human-Object Interaction in Multimodal Driven Human Animation with Weak Conditions",
+    "score": 1.00006980715
+  },
+  "closed form cauchy coordinates and their derivatives for 2d high order cages": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763886",
+    "matched_title": "Closed-form Cauchy Coordinates and Their Derivatives for 2D High-order Cages",
+    "score": 1.00006675305
+  },
+  "uni inter unifying 3d human motion synthesis across diverse interaction contexts": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763954",
+    "matched_title": "Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts",
+    "score": 1.00007159524
+  },
+  "compact shape representation utilizing local surface similarities": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763880",
+    "matched_title": "Compact shape representation utilizing local surface similarities",
+    "score": 1.00004594031
+  },
+  "in context brush zero shot customized subject insertion with context aware latent space manipulation": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763820",
+    "matched_title": "In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation",
+    "score": 1.00008237917
+  },
+  "blobctrl taming controllable blob for element level image editing": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763897",
+    "matched_title": "BlobCtrl: Taming Controllable Blob for Element-level Image Editing",
+    "score": 1.000066432884
+  },
+  "consistedit highly consistent and precise training free visual editing": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763909",
+    "matched_title": "ConsistEdit: Highly Consistent and Precise Training-free Visual Editing",
+    "score": 1.00006433895
+  },
+  "dreamo a unified framework for image customization": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763956",
+    "matched_title": "DreamO: A Unified Framework for Image Customization",
+    "score": 1.00003490033
+  },
+  "the aging multiverse generating condition aware facial aging tree via training free diffusion": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763988",
+    "matched_title": "The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion",
+    "score": 1.00008059759
+  },
+  "gswt gaussian splatting wang tiles": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763967",
+    "matched_title": "GSWT: Gaussian Splatting Wang Tiles",
+    "score": 1.000053424583
+  },
+  "lvt large scale scene reconstruction via local view transformers": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763838",
+    "matched_title": "LVT: Large-Scale Scene Reconstruction via Local View Transformers",
+    "score": 1.00006420003
+  },
+  "voost a unified and scalable diffusion transformer for bidirectional virtual try on and try off": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763940",
+    "matched_title": "Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off",
+    "score": 1.00009456986
+  },
+  "citygo lightweight urban modeling and rendering with proxy buildings and residual gaussians": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763866",
+    "matched_title": "CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians",
+    "score": 1.00006708553
+  },
+  "spectral gs taming 3d gaussian splatting with spectral entropy": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763907",
+    "matched_title": "Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy",
+    "score": 1.00006926463
+  },
+  "a compact stochastic representation for monte carlo path traced images": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763846",
+    "matched_title": "A compact stochastic representation for Monte Carlo Path Traced images",
+    "score": 1.000056282677
+  },
+  "editable physically based reflections in raytraced gaussian radiance fields": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763971",
+    "matched_title": "Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields",
+    "score": 1.000074460266
+  },
+  "lego maker autoregressive image conditioned lego model creation": {
+    "status": "found",
+    "doi": "10.1145/3763285",
+    "matched_title": "LEGO®-Maker: Autoregressive Image-Conditioned LEGO® Model Creation",
+    "score": 1.000071752266
+  },
+  "legoace autoregressive construction engine for expressive lego assemblies": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763881",
+    "matched_title": "LegoACE: Autoregressive Construction Engine for Expressive LEGO® Assemblies",
+    "score": 1.000057970104
+  },
+  "computational design of shape aware sieves": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763875",
+    "matched_title": "Computational Design of Shape-Aware Sieves",
+    "score": 1.000039243908
+  },
+  "inverse tiling of 2d finite domains": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763834",
+    "matched_title": "Inverse Tiling of 2D Finite Domains",
+    "score": 1.000040717224
+  },
+  "designing with tension nearly developable patch layouts": {
+    "status": "found",
+    "doi": "10.1145/3757377.3763941",
+    "matched_title": "Designing with Tension: Nearly-Developable Patch Layouts",
+    "score": 1.00005609466
+  }
+}

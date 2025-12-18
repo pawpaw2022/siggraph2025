@@ -1,0 +1,8 @@
+# Not found on Crossref for ACM prefix 10.1145
+# Count: 5
+
+papers_2207	Sampling, Reconstruction & Variance Reduction	X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio
+papers_1042	Computational Photography & Cameras	SZ Sequences: Binary-Constructed $(0, 2^q)$-Sequences
+papers_1810	Material & Texture Modeling	S3 Imagery: Specular Shading from Scratch-Anisotropy
+papers_1244	Generative Scenes & Panoramas	How Does a Virtual Agent Decide Where to Look? Symbolic Cognitive Reasoning for Embodied Head Rotation
+papers_1834	Generative 3D Modeling	MaskedManipulator: Versatile Whole-Body Manipulation
